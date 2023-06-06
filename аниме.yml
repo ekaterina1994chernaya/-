@@ -1,0 +1,3170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<yml_catalog date="2023-06-06 13:24">
+		<shop>
+			<name>Diskomir</name>
+			<company>Diskomir</company>
+			<url>https://diskomir.ru/</url>
+		<currencies>
+			<currency id="RUB" rate="1" />
+		</currencies>
+		<categories>
+			<category id="2229656180">Каталог</category>
+		<category id="3462294454" parentId="2229656180">Аниме косплей костюмы и аксессуары</category>
+			<category id="4028363487" parentId="3462294454">Банданы и повязки Наруто</category>
+			<category id="1792242342" parentId="3462294454">Катаны, кунаи, косплей оружие</category>
+			<category id="1027705230" parentId="3462294454">Аниме косплей костюмы и аксессуары</category>
+			<category id="2252416416" parentId="3462294454">Аниме косплей парики</category>
+		<category id="2192560745" parentId="2229656180">Фигурки из аниме и игр</category>
+			<category id="334174867" parentId="2192560745">Оригинальные аниме фигурки</category>
+			<category id="1632095291" parentId="2192560745">Маленькие аниме фигурки</category>
+			<category id="36243545" parentId="2192560745">Большие Китайские фигурки (&gt; 130 мм)</category>
+			<category id="2420739808" parentId="2192560745">Акриловые аниме фигурки</category>
+		<category id="1958357731" parentId="2229656180">Манга, ранобэ, скетчбуки, тетради</category>
+			<category id="3201870484" parentId="1958357731">Манга и Ранобэ.</category>
+			<category id="621981859" parentId="1958357731">Скетчбуки для рисования.</category>
+		<category id="4260096740" parentId="2229656180">Аниме плакаты, наклейки и календари</category>
+			<category id="3660505725" parentId="4260096740">Аниме наклейки</category>
+			<category id="626741833" parentId="4260096740">Бумажные аниме плакаты</category>
+			<category id="3007283184" parentId="4260096740">Аниме открытки</category>
+			<category id="2304024291" parentId="4260096740">Аниме стикеры</category>
+		<category id="3322246711" parentId="2229656180">Аниме стафф</category>
+			<category id="4022218322" parentId="3322246711">Подарочные наборы</category>
+			<category id="2958689724" parentId="3322246711">Аниме кружки</category>
+			<category id="1158674650" parentId="3322246711">Разнообразные аниме товары</category>
+			<category id="3218379926" parentId="3322246711">Игральные карты</category>
+		<category id="3247202363" parentId="2229656180">Аниме аксессуары</category>
+			<category id="1453325297" parentId="3247202363">Аниме Броши, Заколки, Серьги и Сувениры</category>
+			<category id="1943876120" parentId="3247202363">Акриловые аниме брелки</category>
+		<category id="2455190516" parentId="2229656180">Дакимакуры, наволочки и подушки</category>
+			<category id="1040502454" parentId="2455190516">Дакимакуры Подушки Обнимашки</category>
+			<category id="2883096089" parentId="2455190516">Наполнитель для дакимакур</category>
+			<category id="73790802" parentId="2455190516">Дакимакуры Наволочки Обнимашки</category>
+		<category id="2048209766" parentId="2229656180">Аниме значки и магниты</category>
+			<category id="2635164352" parentId="2048209766">Наборы аниме значков</category>
+			<category id="2019874220" parentId="2048209766">Аниме магниты на холодильник</category>
+		<category id="3670153412" parentId="2229656180">Цветные карнавальные линзы для глаз</category>
+			<category id="621590906" parentId="3670153412">Растворы для линз</category>
+			<category id="3188479150" parentId="3670153412">Склеральные линзы.</category>
+			<category id="3079451463" parentId="3670153412">Цветные линзы</category>
+		<category id="1312571407" parentId="2229656180">Японские сладости, еда и напитки</category>
+			<category id="2997377340" parentId="1312571407">Японская жвачка.</category>
+			<category id="4235899904" parentId="1312571407">Японские продукты.</category>
+		</categories>
+		<offers>
+			<offer id="2209304049" available="true">
+			       <url>https://diskomir.ru/catalog/povyazka_bandana_naruto_naruto_konohagakure_no_sato_derevnya_skrytaya_v_listve_9893/</url>
+			       <price>150</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4028363487</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7e9/povyazka-bandana-naruto-naruto-konohagakure-no-sato-derevnya-skrytaya-v-listve.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Повязка бандана Наруто Naruto Konohagakure no Sato</vendor>
+			       <name>Повязка бандана Наруто Naruto Konohagakure no Sato (Деревня скрытая в листве)</name>
+				<description>Повязка бандана Наруто Naruto Konohagakure no Sato (Деревня скрытая в листве) из аниме Naruto - купить за 150 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+			</offer>
+			<offer id="1864918139" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_pop_up_parade_demon_slayer_kimetsu_no_yaiba_tanjiro_kamado_566773/</url>
+			       <price>4080</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/d31/figurka-pop-up-parade-demon-slayer-kimetsu-no-yaiba-tanjiro-kamado.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaib</vendor>
+			       <name>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaiba: Tanjiro Kamado</name>
+				<description>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaiba: Tanjiro Kamado из аниме Клинок, рассекающий демонов - купить за 4080 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1985575669" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_banpresto_blue_lock_q_posket_yoichi_isagi_ver_a_b_637368/</url>
+			       <price>2400</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2be/hqlek7lu2cwu2vkp541p7p7patrplm8c/figurka-banpresto-blue-lock-q-posket-yoichi-isagi-ver-a-b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Banpresto Blue Lock Q Posket Yoichi Isagi </vendor>
+			       <name>Фигурка Banpresto Blue Lock Q Posket Yoichi Isagi Ver.A/B</name>
+				<description>Фигурка Banpresto Blue Lock Q Posket Yoichi Isagi Ver.A/B из аниме Синяя Тюрьма: Блю Лок - купить за 2400 руб.</description>
+				<param name="Цвет">Синий</param>
+				<count>50</count>
+			</offer>
+			<offer id="1081629402" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_nendoroid_1524_naruto_shippuden_minato_namikaze_564935/</url>
+			       <price>4760</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/730/figurka-nendoroid-1524-naruto-shippuden-minato-namikaze.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Nendoroid 1524 Naruto Shippuden: Minato Na</vendor>
+			       <name>Фигурка Nendoroid 1524 Naruto Shippuden: Minato Namikaze</name>
+				<description>Фигурка Nendoroid 1524 Naruto Shippuden: Minato Namikaze из аниме Наруто - купить за 4760 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="82119192" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_pop_up_parade_haikyu_to_the_top_kageyama_tobio_584356/</url>
+			       <price>3520</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2d0/figurka-pop-up-parade-haikyu-to-the-top-kageyama-tobio.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка POP UP PARADE Haikyu!! To The Top: Kageyam</vendor>
+			       <name>Фигурка POP UP PARADE Haikyu!! To The Top: Kageyama Tobio</name>
+				<description>Фигурка POP UP PARADE Haikyu!! To The Top: Kageyama Tobio из аниме Волейбол!! - купить за 3520 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4148546655" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_11_bungo_stray_dogs_vol_11/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/dfe/c9ktofrcelih488t1jd6ekawbiie0d7a/manga-proza-brodyachikh-psov-tom-11-bungo-stray-dogs-vol-11.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 11 / Bungo Stray Do</vendor>
+			       <name>Манга Проза бродячих псов. Том 11 / Bungo Stray Dogs. Vol. 11</name>
+				<description>Манга Проза бродячих псов. Том 11 / Bungo Stray Dogs. Vol. 11 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2905116991" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_s_artami_velikiy_iz_brodyachikh_psov_549623/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/597/5972534049839f01056fa0003f386048.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки с артами Великий из Бродячих Псов</vendor>
+			       <name>Наклейки с артами Великий из Бродячих Псов</name>
+				<description>Наклейки с артами Великий из Бродячих Псов из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1183297556" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_nendoroid_1569_demon_slayer_sabito_579325/</url>
+			       <price>4800</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4d4/figurka-nendoroid-1569-demon-slayer-sabito.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Nendoroid 1569 Demon Slayer: Sabito</vendor>
+			       <name>Фигурка Nendoroid 1569 Demon Slayer: Sabito</name>
+				<description>Фигурка Nendoroid 1569 Demon Slayer: Sabito из аниме Клинок, рассекающий демонов - купить за 4800 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2091866003" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_8_spoyler_643382/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/017/rd9lrxu75bfqxka90m3p4gao93by59nu/manga-chelovek-benzopila-kniga-8-spoyler.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 8. Спойлер</vendor>
+			       <name>Манга Человек-бензопила. Книга 8. Спойлер</name>
+				<description>Манга Человек-бензопила. Книга 8. Спойлер - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3595531157" available="true">
+			       <url>https://diskomir.ru/catalog/lutboks_klinok_rassekayushchiy_demonov_544967/</url>
+			       <price>990</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4022218322</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3cd/3cd05a1b2411c63bf1e3364d53e8e3e4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Лутбокс Клинок, Рассекающий Демонов</vendor>
+			       <name>Лутбокс Клинок, Рассекающий Демонов</name>
+				<description>Лутбокс Клинок, Рассекающий Демонов из аниме Demon Slayer: Kimetsu no Yaiba - купить за 990 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4170102838" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_6_640082/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/bbe/zirhon2oi0ykp28u7hohf5peyztmbcgq/manga-spy-x-family-semya-shpiona-tom-6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 6</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 6</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 6 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="7146202" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_klinok_rassekayushchiy_demonov/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/834/vuxpel7uj31skxwwq9uipsbkc5fysg7d/bulavka-klinok-rassekayushchiy-demonov.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Клинок, рассекающий демонов</vendor>
+			       <name>Булавка Клинок, рассекающий демонов</name>
+				<description>Булавка Клинок, рассекающий демонов по аниме Demon Slayer - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="932807187" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_sakura_sobiratelnitsa_kart/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/503/rqzcqt9fm8hb3zo9ob6v5mzx3icn9kq8/bulavka-sakura-sobiratelnitsa-kart.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Сакура - собирательница карт</vendor>
+			       <name>Булавка Сакура - собирательница карт</name>
+				<description>Булавка Сакура - собирательница карт по аниме Card Captor Sakura - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="4242001611" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_genshin_impakt_syao_565680/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/fc2/kruzhka-genshin-impakt-syao.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Геншин Импакт - Сяо</vendor>
+			       <name>Кружка Геншин Импакт - Сяо</name>
+				<description>Кружка Геншин Импакт - Сяо из игры Genshin Impact - купить за 350 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2382797996" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_tualetnyy_malchik_khanako/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/985/vyotuq0f7o3978myc6a1mfctnrdfalwz/bulavka-tualetnyy-malchik-khanako.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Туалетный мальчик Ханако</vendor>
+			       <name>Булавка Туалетный мальчик Ханако</name>
+				<description>Булавка Туалетный мальчик Ханако по аниме Jibaku Shounen Hanako-kun - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="3922208809" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_vydayushchiesya_zveri/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/913/1ph4kxjamm6d3vezbe6rvbg4or59puyf/bulavka-vydayushchiesya-zveri.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Выдающиеся звери</vendor>
+			       <name>Булавка Выдающиеся звери</name>
+				<description>Булавка Выдающиеся звери по аниме Beastars - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1620065381" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_stalnoy_alkhimik/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/825/j4az1ljzl96swx4knmjd264lnna0gffh/bulavka-stalnoy-alkhimik.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Стальной алхимик</vendor>
+			       <name>Булавка Стальной алхимик</name>
+				<description>Булавка Стальной алхимик по аниме Fullmetal Alchemist - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1943769438" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_chyernyy_klever/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/235/37sgwgeohg6749kce8uueao7fio7n8kx/bulavka-chyernyy-klever.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Чёрный клевер</vendor>
+			       <name>Булавка Чёрный клевер</name>
+				<description>Булавка Чёрный клевер по аниме Black Clover - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">Черный</param>
+				<count>50</count>
+			</offer>
+			<offer id="567443757" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_tetrad_smerti/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4f2/1qhoe0b1mfpw5xgido9by0vdpktm47kf/bulavka-tetrad-smerti.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Тетрадь Смерти</vendor>
+			       <name>Булавка Тетрадь Смерти</name>
+				<description>Булавка Тетрадь Смерти по аниме Death Note - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="2066954223" available="true">
+			       <url>https://diskomir.ru/catalog/bulavka_slem_dank/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1453325297</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/855/pt8d1493cj6j4jpvj41ppmllihjvzfxr/bulavka-slem-dank.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Булавка Слэм-данк</vendor>
+			       <name>Булавка Слэм-данк</name>
+				<description>Булавка Слэм-данк по аниме Slam Dunk - купить за 1600 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">женский</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1301801766" available="true">
+			       <url>https://diskomir.ru/catalog/povyazka_naruto_konohagakure_no_sato_black_derevnya_skrytaya_v_listve_9895/</url>
+			       <price>150</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4028363487</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/c66/c66db9fc22034e6d213a4fda25881fe8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Повязка Naruto Konohagakure no Sato Black (Деревня</vendor>
+			       <name>Повязка Naruto Konohagakure no Sato Black (Деревня скрытая в листве)</name>
+				<description>Повязка Naruto Konohagakure no Sato Black (Деревня скрытая в листве) из аниме Naruto - купить за 150 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">Черный</param>
+				<count>50</count>
+			</offer>
+			<offer id="4193560733" available="true">
+			       <url>https://diskomir.ru/catalog/kunay_bolshoy_dlya_kospleya_naruto_plastikovyy_s_krasnoy_opletkoy_549759/</url>
+			       <price>640</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/60a/60acaf35bc1d8bc40343f456509e256c.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кунай большой для косплея "Наруто" (пластиковый) с</vendor>
+			       <name>Кунай большой для косплея "Наруто" (пластиковый) с красной оплеткой</name>
+				<description>Кунай большой для косплея "Наруто" (пластиковый) с красной оплеткой из аниме Naruto - купить за 640 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="367141109" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_naruto_sakura_haruno_sasuke_uchiha_naruto_uzumaki_kakashi_hatake_493050/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/544/544355ed07144de629c56042470259ad.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Naruto - Sakura Haruno, Sasuke Uch</vendor>
+			       <name>Плакат бумажный Naruto - Sakura Haruno, Sasuke Uchiha, Naruto Uzumaki, Kakashi Hatake</name>
+				<description>Плакат бумажный Naruto - Sakura Haruno, Sasuke Uchiha, Naruto Uzumaki, Kakashi Hatake из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="958108391" available="true">
+			       <url>https://diskomir.ru/catalog/kunay_metallicheskiy_dlya_kospleya_naruto_s_zolotoy_ruchkoy_530706/</url>
+			       <price>1840</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ece/gb01l1zztdlnjcv0oi285idlnu0ua07f/kunay-metallicheskiy-dlya-kospleya-naruto-s-zolotoy-ruchkoy.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кунай металлический для косплея Naruto с золотой р</vendor>
+			       <name>Кунай металлический для косплея Naruto с золотой ручкой</name>
+				<description>Кунай металлический для косплея Naruto с золотой ручкой из аниме Наруто - купить за 1840 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1089864958" available="true">
+			       <url>https://diskomir.ru/catalog/dakimakura_obnimashka_naruto_khatake_kakashi_s_podushkoy_561925/</url>
+			       <price>2250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1040502454</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/38d/dakimakura-obnimashka-naruto-khatake-kakashi-s-podushkoy.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Дакимакура обнимашка Наруто - Хатаке Какаши с поду</vendor>
+			       <name>Дакимакура обнимашка Наруто - Хатаке Какаши с подушкой</name>
+				<description>Дакимакура обнимашка Наруто - Хатаке Какаши с подушкой из аниме Naruto Kakashi Hatake - купить за 2250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1669972550" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_nendoroid_707_naruto_shippuden_sasuke_uchiha_567330/</url>
+			       <price>4760</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/d43/figurka-nendoroid-707-naruto-shippuden-minato-namikaze.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Nendoroid 707 Naruto Shippuden: Sasuke Uch</vendor>
+			       <name>Фигурка Nendoroid 707 Naruto Shippuden: Sasuke Uchiha</name>
+				<description>Фигурка Nendoroid 707 Naruto Shippuden: Sasuke Uchiha из аниме Наруто - купить за 4760 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3403914116" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_so_vsemi_personazhami_anime_naruto_naruto_83988/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/281/281d7ede6b5a6e62a298b029d3a6e107.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка со всеми персонажами аниме Наруто / Naruto</vendor>
+			       <name>Кружка со всеми персонажами аниме Наруто / Naruto</name>
+				<description>Кружка со всеми персонажами аниме Наруто / Naruto из аниме Naruto - купить за 350 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3274445843" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_naruto_kakashi_hatake_481168/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ad6/ad624bdd035f49da531ae6301008caca.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Naruto Kakashi Hatake</vendor>
+			       <name>Плакат бумажный Naruto Kakashi Hatake</name>
+				<description>Плакат бумажный Naruto Kakashi Hatake из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3689674585" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_naruto_shippuuden_itachi_uchiha_481181/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/bed/bedbe8029e7c8638f02740de8d526afd.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Naruto Shippuuden Itachi Uchiha</vendor>
+			       <name>Плакат бумажный Naruto Shippuuden Itachi Uchiha</name>
+				<description>Плакат бумажный Naruto Shippuuden Itachi Uchiha из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3668063038" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_personazhami_naruto_481157/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a5f/a5f2f3f86e256252d3701aa46e37191a.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с персонажами Naruto</vendor>
+			       <name>Плакат бумажный с персонажами Naruto</name>
+				<description>Плакат бумажный с персонажами Naruto из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2577180292" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_naruto_naruto_uzumaki_481172/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/27f/27f33bfe009eb5e3df9e32462109f10c.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Naruto Naruto Uzumaki</vendor>
+			       <name>Плакат бумажный Naruto Naruto Uzumaki</name>
+				<description>Плакат бумажный Naruto Naruto Uzumaki из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2665353617" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_naruto_itachi_uchiha_493049/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5f1/5f1fd21a22bed41478f01cc54f8d8654.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Naruto - Itachi Uchiha</vendor>
+			       <name>Плакат бумажный Naruto - Itachi Uchiha</name>
+				<description>Плакат бумажный Naruto - Itachi Uchiha из аниме Наруто - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2497210808" available="true">
+			       <url>https://diskomir.ru/catalog/kollektsionnye_kartochki_naruto_vol_8_637646/</url>
+			       <price>160</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1158674650</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/59a/hbdhwo98ejp3w81pi8hdnvfcofkykrbj/kollektsionnye-kartochki-naruto-vol-8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Коллекционные карточки Naruto Vol.8</vendor>
+			       <name>Коллекционные карточки Naruto Vol.8</name>
+				<description>Коллекционные карточки Naruto Vol.8 из аниме Геншин Импакт - купить за 160 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2780584301" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_po_anime_naruto_no_6_549615/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a74/a747cec7ef2b7a14e81934d96b3835a1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки по аниме Наруто No.6</vendor>
+			       <name>Наклейки по аниме Наруто No.6</name>
+				<description>Наклейки по аниме Наруто No.6 из аниме Naruto - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2506460795" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_naruto_naruto_no_8_549620/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e6c/e6c9cd67e95d8f11896dbe1f2ed5ec3b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Naruto / Наруто No.8</vendor>
+			       <name>Наклейки Naruto / Наруто No.8</name>
+				<description>Наклейки Naruto / Наруто No.8 из аниме Naruto - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="302804127" available="true">
+			       <url>https://diskomir.ru/catalog/kulon_naruto_uchiha_itachi_13140/</url>
+			       <price>192</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1027705230</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/89b/s865za26f3e0xl1l7zkbhf13mdp7svnk/kulon-naruto-uchiha-itachi.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кулон Naruto: Uchiha Itachi</vendor>
+			       <name>Кулон Naruto: Uchiha Itachi</name>
+				<description>Кулон Naruto: Uchiha Itachi из аниме Наруто - купить за 192 руб.</description>
+				<count>50</count>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+			</offer>
+			<offer id="3093781551" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_naruto_naruto_468880/</url>
+			       <price>800</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1632095291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3bb/3bb03dce344bf7813d71c32964ec70fe.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Naruto: Naruto</vendor>
+			       <name>Фигурка Naruto: Naruto</name>
+				<description>Фигурка Naruto: Naruto из аниме Наруто - купить за 800 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3962471545" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_naruto_sakura_468884/</url>
+			       <price>560</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1632095291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/77a/77aee23468a92d061735e3b287c8d24e.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Naruto: Sakura</vendor>
+			       <name>Фигурка Naruto: Sakura</name>
+				<description>Фигурка Naruto: Sakura из аниме Наруто - купить за 560 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3783528958" available="true">
+			       <url>https://diskomir.ru/catalog/lutboks_naruto_544936/</url>
+			       <price>990</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4022218322</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/823/823df6f99e5478525e16f2c359fe377d.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Лутбокс Наруто</vendor>
+			       <name>Лутбокс Наруто</name>
+				<description>Лутбокс Наруто из аниме Naruto - купить за 990 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3844308320" available="true">
+			       <url>https://diskomir.ru/catalog/katana_klinok_rassekayushchiy_demonov_kyedzyuro_rengoku_kyoujurou_rengoku_563650/</url>
+			       <price>7200</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/fa5/katana-klinok-rassekayushchiy-demonov-kyedzyuro-rengoku-kyoujurou-rengoku.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Катана Клинок, рассекающий демонов - Кёдзюро Рэнго</vendor>
+			       <name>Катана Клинок, рассекающий демонов - Кёдзюро Рэнгоку Kyoujurou Rengoku</name>
+				<description>Катана Клинок, рассекающий демонов - Кёдзюро Рэнгоку Kyoujurou Rengoku из аниме Demon Slayer: Kimetsu no Yaiba Kyoujurou Rengoku - купить за 7200 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="756419763" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_klinok_rassekayushchiy_demonov_kvartal_krasnykh_fonarey_606521/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/526/ffrlbho7geqteo6noi73zum7dh1xwwtt/plakat-bumazhnyy-klinok-rassekayushchiy-demonov-kvartal-krasnykh-fonarey.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Клинок, рассекающий демонов: Кварт</vendor>
+			       <name>Плакат бумажный Клинок, рассекающий демонов: Квартал красных фонарей</name>
+				<description>Плакат бумажный Клинок, рассекающий демонов: Квартал красных фонарей из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="69033614" available="true">
+			       <url>https://diskomir.ru/catalog/katana_klinok_rassekayushchiy_demonov_tandziro_kamado_tanjirou_kamado_563647/</url>
+			       <price>7200</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e7d/katana-klinok-rassekayushchiy-demonov-tandziro-kamado-tanjirou-kamado.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Катана Клинок, рассекающий демонов - Тандзиро Кама</vendor>
+			       <name>Катана Клинок, рассекающий демонов - Тандзиро Камадо Tanjirou Kamado</name>
+				<description>Катана Клинок, рассекающий демонов - Тандзиро Камадо Tanjirou Kamado из аниме Demon Slayer: Kimetsu no Yaiba Tanjirou Kamado - купить за 7200 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1208255573" available="true">
+			       <url>https://diskomir.ru/catalog/katana_klinok_rassekayushchiy_demonov_muitiro_tokito_muichirou_tokitou_563654/</url>
+			       <price>7200</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/48b/katana-klinok-rassekayushchiy-demonov-muitiro-tokito-muichirou-tokitou.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Катана Клинок, рассекающий демонов - Муитиро Токит</vendor>
+			       <name>Катана Клинок, рассекающий демонов - Муитиро Токито Muichirou Tokitou</name>
+				<description>Катана Клинок, рассекающий демонов - Муитиро Токито Muichirou Tokitou из аниме Demon Slayer: Kimetsu no Yaiba Mitsuri Kanroji - купить за 7200 руб.</description>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+				<count>50</count>
+			</offer>
+			<offer id="1787406772" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_klinok_rassekayushchiy_demonov_tandziro_i_nedzuko_606554/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ba/u1yi3l5i6l55zlvy8lnssxuk14ck8fcp/plakat-bumazhnyy-klinok-rassekayushchiy-demonov-tandziro-i-nedzuko.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Клинок, рассекающий демонов - Танд</vendor>
+			       <name>Плакат бумажный Клинок, рассекающий демонов - Тандзиро и Нэдзуко</name>
+				<description>Плакат бумажный Клинок, рассекающий демонов - Тандзиро и Нэдзуко из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3812219593" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_geroyami_anime_klinok_rassekayushchiy_demonov_527406/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a20/a20181d629f69e85cc035773e91a3b52.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с героями аниме Клинок, рассекающи</vendor>
+			       <name>Плакат бумажный с героями аниме Клинок, рассекающий демонов</name>
+				<description>Плакат бумажный с героями аниме Клинок, рассекающий демонов из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2692428239" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_pop_up_parade_demon_slayer_kimetsu_no_yaiba_nezuko_kamado_578205/</url>
+			       <price>3080</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7b4/figurka-pop-up-parade-demon-slayer-kimetsu-no-yaiba-nezuko-kamado.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaib</vendor>
+			       <name>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaiba: Nezuko Kamado</name>
+				<description>Фигурка POP UP PARADE Demon Slayer Kimetsu no Yaiba: Nezuko Kamado из аниме Клинок, рассекающий демонов - купить за 3080 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3130583162" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_demon_slayer_kimetsu_no_yaiba_zenitsu_agatsuma_542771/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3cc/3cce10e42b982a098d3ce509bb9f5ccd.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Z</vendor>
+			       <name>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Zenitsu Agatsuma</name>
+				<description>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Zenitsu Agatsuma из аниме Клинок, рассекающий демонов - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3300580783" available="true">
+			       <url>https://diskomir.ru/catalog/nabor_malenkikh_znachkov_klinok_rassekayushchiy_demonov_no_1_560374/</url>
+			       <price>450</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2635164352</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/f69/nabor-malenkikh-znachkov-klinok-rassekayushchiy-demonov-no-1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Набор маленьких значков Клинок, рассекающий демоно</vendor>
+			       <name>Набор маленьких значков Клинок, рассекающий демонов No.1</name>
+				<description>Набор маленьких значков Клинок, рассекающий демонов No.1 из аниме Demon Slayer: Kimetsu no Yaiba - купить за 450 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1182190639" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_demon_slayer_kimetsu_no_yaiba_nezuko_kamado_542787/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/de5/de5dfd1dc997fd7a668797bf3942ee03.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" N</vendor>
+			       <name>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Nezuko Kamado</name>
+				<description>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Nezuko Kamado из аниме Клинок, рассекающий демонов - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1202494775" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_demon_slayer_kimetsu_no_yaiba_giyuu_tomioka_542791/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ba3/ba38d055d3ef9ddddf983007612a4d94.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" G</vendor>
+			       <name>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Giyuu Tomioka</name>
+				<description>Плакат бумажный "Demon Slayer: Kimetsu no Yaiba" Giyuu Tomioka из аниме Клинок, рассекающий демонов - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1963329557" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_s_nezuko_iz_anime_klinok_rassekayushchiy_demonov_549816/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/23b/23baab8c385efeb0592814b15b8b61fd.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки с Незуко из аниме Клинок, рассекающий дем</vendor>
+			       <name>Наклейки с Незуко из аниме Клинок, рассекающий демонов</name>
+				<description>Наклейки с Незуко из аниме Клинок, рассекающий демонов из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="680273047" available="true">
+			       <url>https://diskomir.ru/catalog/katana_klinok_rassekayushchiy_demonov_kokushibo_kokushibo_628358/</url>
+			       <price>7200</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/07e/58pxkrooifbcvn0jgsu5jtnad5dpafto/katana-klinok-rassekayushchiy-demonov-kokushibo-kokushibo.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Катана Клинок, рассекающий демонов - Kokushibo Кок</vendor>
+			       <name>Катана Клинок, рассекающий демонов - Kokushibo Кокушибо</name>
+				<description>Катана Клинок, рассекающий демонов - Kokushibo Кокушибо из аниме Demon Slayer: Kimetsu no Yaiba Tanjirou Kamado - купить за 7200 руб.</description>
+				<count>50</count>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+			</offer>
+			<offer id="2141308278" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_demon_slayer_klinok_rassekayushchiy_demonov_545359/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/dc4/dc40bb78faf236d72f9ab0aa8db8c156.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Demon Slayer / Клинок, рассекающий демоно</vendor>
+			       <name>Наклейки Demon Slayer / Клинок, рассекающий демонов</name>
+				<description>Наклейки Demon Slayer / Клинок, рассекающий демонов из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="41580612" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_s_geroyami_anime_klinok_rassekayushchiy_demonov_583973/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/46b/kruzhka-s-geroyami-anime-klinok-rassekayushchiy-demonov.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка с героями аниме Клинок, рассекающий демонов</vendor>
+			       <name>Кружка с героями аниме Клинок, рассекающий демонов</name>
+				<description>Кружка с героями аниме Клинок, рассекающий демонов из аниме Demon Slayer: Kimetsu no Yaiba - купить за 350 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1761066338" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_klinok_rassekayushchiy_demonov_chibi_1_549777/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/6f1/6f1c916dda496c9d5d975681978e48ae.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Клинок, рассекающий демонов Чиби 1</vendor>
+			       <name>Наклейки Клинок, рассекающий демонов Чиби 1</name>
+				<description>Наклейки Клинок, рассекающий демонов Чиби 1 из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3665873332" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_demon_slayer_kimetsu_no_yaiba_527400/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ea/9eaf43292bf3abdcbd03930ba9faef2e.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Demon Slayer: Kimetsu no Yaiba</vendor>
+			       <name>Плакат бумажный Demon Slayer: Kimetsu no Yaiba</name>
+				<description>Плакат бумажный Demon Slayer: Kimetsu no Yaiba из аниме Клинок, рассекающий демонов - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2688675651" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_klinok_rassekayushchiy_demonov_2_549812/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/759/7596dd7f90d1ebc6e04a78eb432dcd20.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Клинок, рассекающий демонов 2</vendor>
+			       <name>Наклейки Клинок, рассекающий демонов 2</name>
+				<description>Наклейки Клинок, рассекающий демонов 2 из аниме Demon Slayer: Kimetsu no Yaiba - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="663057161" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_bachira_meguru_isagi_yoichi_and_hyoma_chigiri_643812/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/585/arkbnmbqrjum0hcfv4vh7ygqsb272u96/kruzhka-sinyaya-tyurma-blyu-lok-bachira-meguru-isagi-yoichi-and-hyoma-chigiri.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru, Isa</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru, Isagi Yoichi and Hyoma Chigiri</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru, Isagi Yoichi and Hyoma Chigiri из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="520831924" available="true">
+			       <url>https://diskomir.ru/catalog/katana_demon_slayer_tsugikuni_yoriichi_611758/</url>
+			       <price>7200</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1792242342</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/910/eq2a1kxxqgjawirv438p1u12padw5lgc/katana-demon-slayer-tsugikuni-yoriichi.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Катана Demon Slayer Tsugikuni Yoriichi</vendor>
+			       <name>Катана Demon Slayer Tsugikuni Yoriichi</name>
+				<description>Катана Demon Slayer Tsugikuni Yoriichi из аниме Клинок, рассекающий демонов - купить за 7200 руб.</description>
+				<count>50</count>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+			</offer>
+			<offer id="2697893183" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_sav_q_posket_sinyaya_tyurma_blyu_lok_khyema_tigiri_640700/</url>
+			       <price>4000</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a56/ul49qcef5svcl2v9zsdsq64l4ysmfg9i/figurka-sav-q-posket-sinyaya-tyurma-blyu-lok-khyema-tigiri.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка SAV Q Posket Синяя Тюрьма: Блю Лок Хёма Ти</vendor>
+			       <name>Фигурка SAV Q Posket Синяя Тюрьма: Блю Лок Хёма Тигири</name>
+				<description>Фигурка SAV Q Posket Синяя Тюрьма: Блю Лок Хёма Тигири из аниме Blue Lock - купить за 4000 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3184145497" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_geroyami_anime_sinyaya_tyurma_blyu_lok_606558/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7ba/gze6wby5lagtgcypy6wqk9k056nytsmb/plakat-bumazhnyy-s-geroyami-anime-sinyaya-tyurma-blyu-lok.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с героями аниме Синяя Тюрьма: Блю </vendor>
+			       <name>Плакат бумажный с героями аниме Синяя Тюрьма: Блю Лок</name>
+				<description>Плакат бумажный с героями аниме Синяя Тюрьма: Блю Лок из аниме Blue Lock - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3533272711" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_banpresto_blue_lock_q_posket_seishirou_nagi_ver_a_637298/</url>
+			       <price>4000</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/da1/i141sbf2c4a01vevnc0io7fg80rw8aon/figurka-banpresto-blue-lock-q-posket-seishirou-nagi-ver-a.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Banpresto Blue Lock Q Posket Seishirou Nag</vendor>
+			       <name>Фигурка Banpresto Blue Lock Q Posket Seishirou Nagi Ver.A</name>
+				<description>Фигурка Banpresto Blue Lock Q Posket Seishirou Nagi Ver.A из аниме Синяя Тюрьма: Блю Лок - купить за 4000 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3103346404" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_banpresto_blue_lock_q_posket_reo_mikage_ver_a_637311/</url>
+			       <price>4000</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2ff/xeo7er0gmb4xt7swq5s237e7qdz96kzm/figurka-banpresto-blue-lock-q-posket-reo-mikage-ver-a.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Banpresto Blue Lock Q Posket Reo Mikage Ve</vendor>
+			       <name>Фигурка Banpresto Blue Lock Q Posket Reo Mikage Ver.A</name>
+				<description>Фигурка Banpresto Blue Lock Q Posket Reo Mikage Ver.A из аниме Синяя Тюрьма: Блю Лок - купить за 4000 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="202790468" available="true">
+			       <url>https://diskomir.ru/catalog/nabor_malenkikh_znachkov_sinyaya_tyurma_blyu_lok_no_1_606126/</url>
+			       <price>450</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2635164352</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/8e7/yjo9ftmr81fnqtjbicvo43gx1ute8qbx/nabor-malenkikh-znachkov-sinyaya-tyurma-blyu-lok-no-1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Набор маленьких значков Синяя Тюрьма: Блю Лок No.1</vendor>
+			       <name>Набор маленьких значков Синяя Тюрьма: Блю Лок No.1</name>
+				<description>Набор маленьких значков Синяя Тюрьма: Блю Лок No.1 из аниме Синяя Тюрьма: Блю Лок - купить за 450 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="192917832" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_sinyaya_tyurma_blyu_lok_no_5_638013/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/bec/31zjqqm65mmwnuh7t7wkvabqvuotbccx/magnit-pryamougolnyy-sinyaya-tyurma-blyu-lok-no-5.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.5</vendor>
+			       <name>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.5</name>
+				<description>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.5 из аниме Blue Lock - купить за 100 руб.</description>
+				<param name="Цвет">Синий</param>
+				<count>50</count>
+			</offer>
+			<offer id="416742292" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_sinyaya_tyurma_blyu_lok_no_12_638021/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/71d/ivgbj0j8rmqakre6uugnfumdp7gg7apv/magnit-pryamougolnyy-sinyaya-tyurma-blyu-lok-no-12.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.12</vendor>
+			       <name>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.12</name>
+				<description>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.12 из аниме Blue Lock - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3214587778" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_sinyaya_tyurma_blyu_lok_no_8_638017/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/554/37ysr8plxzi0wdakgtv36wc4sweegsaq/magnit-pryamougolnyy-sinyaya-tyurma-blyu-lok-no-88.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.8</vendor>
+			       <name>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.8</name>
+				<description>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.8 из аниме Blue Lock - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="1056133223" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_sinyaya_tyurma_blyu_lok_no_1_638009/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2b9/aow539iczq8ehibc98vtbv2kekdfuqhr/magnit-pryamougolnyy-sinyaya-tyurma-blyu-lok-no-1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.1</vendor>
+			       <name>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.1</name>
+				<description>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.1 из аниме Blue Lock - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="2491302214" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_sinyaya_tyurma_blyu_lok_no_9_638018/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/19a/sxavvj4z4y5w5ilgpxmksbxmykv2f0dn/magnit-pryamougolnyy-sinyaya-tyurma-blyu-lok-no-9.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.9</vendor>
+			       <name>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.9</name>
+				<description>Магнит прямоугольный Синяя Тюрьма: Блю Лок No.9 из аниме Blue Lock - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="2604103043" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_bachira_meguru_643811/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/21b/d1l7oo2dx249skhtioopud1ov7pmp6h4/kruzhka-sinyaya-tyurma-blyu-lok-bachira-meguru.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Bachira Meguru из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3588739218" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_bandai_spirits_blue_lock_yoichi_team_z_640330/</url>
+			       <price>5000</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/18a/kwkv04yyhby24lo0l8hwajc8gpn2m7ay/figurka-bandai-spirits-blue-lock-yoichi-team-z.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Bandai Spirits Blue Lock Yoichi (Team Z)</vendor>
+			       <name>Фигурка Bandai Spirits Blue Lock Yoichi (Team Z)</name>
+				<description>Фигурка Bandai Spirits Blue Lock Yoichi (Team Z) из аниме Синяя Тюрьма: Блю Лок - купить за 5000 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3995216578" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_meguru_batira_606143/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e01/b8v8yof8nxbg331nd2pf86m3q28fxmf9/kruzhka-sinyaya-tyurma-blyu-lok-meguru-batira.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Мэгуру Батира</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Мэгуру Батира</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Мэгуру Батира из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3922198376" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_isagi_yoichi_643809/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a84/0kjogykdt0awgrbjb1yhigaq5198ihaa/kruzhka-sinyaya-tyurma-blyu-lok-isagi-yoichi.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Isagi Yoichi</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Isagi Yoichi</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Isagi Yoichi из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3031066051" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_yeiti_isagi_606144/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/cb2/3vd8da7g7jd3bqqmalkkxvwrxp4d43y3/kruzhka-sinyaya-tyurma-blyu-lok-yeiti-isagi.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Ёити Исаги</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Ёити Исаги</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Ёити Исаги из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="4066576522" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_v_assortimente_blue_lock_vol_02_639538/</url>
+			       <price>480</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1632095291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/0b7/kw831j569uw8n2zccm2i43kjw3vykz3m/figurka-v-assortimente-blue-lock-vol-02.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка в ассортименте Blue Lock Vol.02</vendor>
+			       <name>Фигурка в ассортименте Blue Lock Vol.02</name>
+				<description>Фигурка в ассортименте Blue Lock Vol.02 из аниме Синяя Тюрьма: Блю Лок - купить за 480 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="881648355" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_sinyaya_tyurma_blyu_lok_dream_team_643810/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/faa/yxjhy2fjf2fzqpuwqdprnqvxkdav4xl0/kruzhka-sinyaya-tyurma-blyu-lok-dream-team.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка Синяя Тюрьма: Блю Лок - Dream Team</vendor>
+			       <name>Кружка Синяя Тюрьма: Блю Лок - Dream Team</name>
+				<description>Кружка Синяя Тюрьма: Блю Лок - Dream Team из аниме Blue Lock - купить за 350 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="1114776983" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_haikyu_oykava_tooru_1_byust_oikawa_tooru_1_bust_623155/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ce4/rnnuqmy9h4lmcd5drsjqbzf2wm87ys0r/brelok-akrilovyy-haikyu-oykava-tooru-1-byust-oikawa-tooru-1-bust.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Haikyu!! - Ойкава Тоору 1 Бюст (O</vendor>
+			       <name>Брелок акриловый Haikyu!! - Ойкава Тоору 1 Бюст (Oikawa Tooru 1 Bust)</name>
+				<description>Брелок акриловый Haikyu!! - Ойкава Тоору 1 Бюст (Oikawa Tooru 1 Bust) из аниме Волейбол!! - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1960098718" available="true">
+			       <url>https://diskomir.ru/catalog/kopiya_figurki_nendoroid_605_haikyu_second_season_kozume_kenma_619870/</url>
+			       <price>2400</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>36243545</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9cc/j70wovjoghvtwu829pm0ljj7063b7592/kopiya-figurki-nendoroid-605-haikyu-second-season-kozume-kenma.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Копия фигурки Nendoroid 605 Haikyu!! Second Season</vendor>
+			       <name>Копия фигурки Nendoroid 605 Haikyu!! Second Season: Kozume Kenma</name>
+				<description>Копия фигурки Nendoroid 605 Haikyu!! Second Season: Kozume Kenma из аниме Волейбол!! - купить за 2400 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="19709483" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_akrilovaya_haikyu_nishinoya_nishinoya_620990/</url>
+			       <price>390</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2420739808</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/1cb/kaiv7dbg7dninexwkesjd9i4ipx0x2gv/figurka-akrilovaya-haikyu-nishinoya-nishinoya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка акриловая Haikyu!! - Нишиноя (Nishinoya)</vendor>
+			       <name>Фигурка акриловая Haikyu!! - Нишиноя (Nishinoya)</name>
+				<description>Фигурка акриловая Haikyu!! - Нишиноя (Nishinoya) из аниме Волейбол!! - купить за 390 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4116121206" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_pop_up_parade_haikyu_to_the_top_hinata_shoyo_584357/</url>
+			       <price>5600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/35e/figurka-pop-up-parade-haikyu-to-the-top-hinata-shoyo.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка POP UP PARADE Haikyu!! To The Top: Hinata </vendor>
+			       <name>Фигурка POP UP PARADE Haikyu!! To The Top: Hinata Shoyo</name>
+				<description>Фигурка POP UP PARADE Haikyu!! To The Top: Hinata Shoyo из аниме Волейбол!! - купить за 5600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="616843441" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_haikyu_nishinoya_nishinoya_618553/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4ee/f64xcqr59k1am9kzkcjs9oz0a89lxkop/brelok-akrilovyy-haikyu-nishinoya-nishinoya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Haikyu!! Нишиноя (Nishinoya)</vendor>
+			       <name>Брелок акриловый Haikyu!! Нишиноя (Nishinoya)</name>
+				<description>Брелок акриловый Haikyu!! Нишиноя (Nishinoya) из аниме Волейбол!! - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="719769783" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_nendoroid_1585_haikyu_shinsuke_kita_580850/</url>
+			       <price>5600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/01b/figurka-nendoroid-1585-haikyu-shinsuke-kita.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Nendoroid 1585 Haikyu!!: Shinsuke Kita</vendor>
+			       <name>Фигурка Nendoroid 1585 Haikyu!!: Shinsuke Kita</name>
+				<description>Фигурка Nendoroid 1585 Haikyu!!: Shinsuke Kita из аниме Волейбол!! - купить за 5600 руб.</description>
+			</offer>
+			<offer id="344192613" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_geroyami_haikyuu_480821_480821/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f2b/f2b54d205ff5653cf06289531c129d42.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с героями Haikyuu!! 480821</vendor>
+			       <name>Плакат бумажный с героями Haikyuu!! 480821</name>
+				<description>Плакат бумажный с героями Haikyuu!! 480821 из аниме Волейбол!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2909513617" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_haikyu_khinata_hinata_618552/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/14a/0vcwtu7xv5p8m6ufsx2rfl8aes23j4wz/brelok-akrilovyy-haikyu-khinata-hinata.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Haikyu!! Хината (Hinata)</vendor>
+			       <name>Брелок акриловый Haikyu!! Хината (Hinata)</name>
+				<description>Брелок акриловый Haikyu!! Хината (Hinata) из аниме Волейбол!! - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1264268857" available="true">
+			       <url>https://diskomir.ru/catalog/sketchbuk_dlya_risovaniya_a5_voleybol__600929/</url>
+			       <price>230</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>621981859</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b9b/4ru4ejekrx1itjn1fdh55j8pifwds1ce/sketchbuk-dlya-risovaniya-a5-voleybol-.webp</picture>
+				<picture>https://diskomir.ru/upload/resize_cache/iblock/1e5/hi9okwxgj8u3gr4r5hfl8ip76u0p3wt4/88_88_140cd750bba9870f18aada2478b24840a/A5-2%20sketchbook.jpg</picture>
+				<delivery>true</delivery>
+				<vendor>Скетчбук для рисования A5 Волейбол!!</vendor>
+			       <name>Скетчбук для рисования A5 Волейбол!!</name>
+				<description>Скетчбук для рисования A5 Волейбол!! из аниме Волейбол!! - купить за 230 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3265249556" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_artom_haikyuu_480820/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f8b/f8ba98503d9d2403753e31a128f620bb.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с артом Haikyuu!!</vendor>
+			       <name>Плакат бумажный с артом Haikyuu!!</name>
+				<description>Плакат бумажный с артом Haikyuu!! из аниме Волейбол!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3810487697" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_haikyu_kenma_kenma_618554/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2be/q36egepdpjzepajy2tmunenw09g646to/brelok-akrilovyy-haikyu-kenma-kenma.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Haikyu!! Кенма (Kenma)</vendor>
+			       <name>Брелок акриловый Haikyu!! Кенма (Kenma)</name>
+				<description>Брелок акриловый Haikyu!! Кенма (Kenma) из аниме Волейбол!! - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1590253777" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_voleybol_2_604894/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/8ad/mvm0nnnbi5sqr4p2eceyr1lq1xewekl5/plakat-bumazhnyy-voleybol-2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Волейбол!! 2</vendor>
+			       <name>Плакат бумажный Волейбол!! 2</name>
+				<description>Плакат бумажный Волейбол!! 2 из аниме Haikyuu!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3965882622" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_haikyu_to_the_top_563755/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/bd1/nakleyki-haikyu-to-the-top.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Haikyu!! To The Top</vendor>
+			       <name>Наклейки Haikyu!! To The Top</name>
+				<description>Наклейки Haikyu!! To The Top из аниме Волейбол!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="115071104" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_voleybol_haikyuu_485072/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/5f6/5f64e343dc328311963ab2fd2d880bed.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Волейбол!! Haikyuu!!</vendor>
+			       <name>Наклейки Волейбол!! Haikyuu!!</name>
+				<description>Наклейки Волейбол!! Haikyuu!! из аниме Haikyu!! / Haikyuu!!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2647654416" available="true">
+			       <url>https://diskomir.ru/catalog/otkrytka_iz_anime_voleybol_557520/</url>
+			       <price>50</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3007283184</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/55a/otkrytka-iz-anime-voleybol-.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Открытка из аниме Волейбол!!</vendor>
+			       <name>Открытка из аниме Волейбол!!</name>
+				<description>Открытка из аниме Волейбол!! почтовая карточка из аниме Haikyu!! - купить за 50 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="252375305" available="true">
+			       <url>https://diskomir.ru/catalog/igralnye_karty_voleybol_599155/</url>
+			       <price>540</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3218379926</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/d2f/q27y9aos6pci6ti9hwpcynt1ugcs275k/igralnye-karty-voleybol-.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Игральные карты Волейбол!!</vendor>
+			       <name>Игральные карты Волейбол!!</name>
+				<description>Игральные карты Волейбол!! из аниме Haikyu!! - купить за 540 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2143473" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_voleybol_480822/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/63b/63b31614a6bb854561e6248e22a61aed.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Волейбол!!</vendor>
+			       <name>Плакат бумажный Волейбол!!</name>
+				<description>Плакат бумажный Волейбол!! из аниме Haikyu!! / Haikyuu!!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4267379180" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_voleybol_515762/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/759/75963ac117c0207394e3a0ae8e4e44e9.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Волейбол!</vendor>
+			       <name>Наклейки Волейбол!</name>
+				<description>Наклейки Волейбол! из аниме Haikyu!! / Haikyuu!!! - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2675746920" available="true">
+			       <url>https://diskomir.ru/catalog/podushka_dlya_navolochek_obnimashek_150_50_68501/</url>
+			       <price>1600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2883096089</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/338/338b027e58ed1f2eab2c9d73e8fb8f32.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Подушка для наволочек обнимашек 150*50</vendor>
+			       <name>Подушка для наволочек обнимашек 150*50</name>
+				<description>Подушка для наволочек обнимашек 150*50 из аниме - купить за 1600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3301744501" available="true">
+			       <url>https://diskomir.ru/catalog/likontin_neo_multi_120_ml_rastvor_dlya_kontaktnykh_linz_529586/</url>
+			       <price>360</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>621590906</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/523/5239b2e8456cc664ea4a2e142ed0cb6b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Ликонтин Neo Мульти (120 мл) раствор для контактны</vendor>
+			       <name>Ликонтин Neo Мульти (120 мл) раствор для контактных линз</name>
+				<description>Ликонтин Neo Мульти (120 мл) раствор для контактных линз - купить за 360 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3856868682" available="true">
+			       <url>https://diskomir.ru/catalog/likontin_neo_multi_60_ml_rastvor_dlya_kontaktnykh_linz_452102/</url>
+			       <price>150</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>621590906</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/d4b/d4b8cb3d6b8739bebe3e3798d82ff7bf.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Ликонтин Neo Мульти (60 мл) раствор для контактных</vendor>
+			       <name>Ликонтин Neo Мульти (60 мл) раствор для контактных линз</name>
+				<description>Ликонтин Neo Мульти (60 мл) раствор для контактных линз - купить за 150 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2498066775" available="true">
+			       <url>https://diskomir.ru/catalog/konteyner_dlya_kontaktnykh_linz_72656/</url>
+			       <price>150</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>621590906</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/55e/55ec5c8d883359b0782a38c734a84df4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Контейнер для контактных линз</vendor>
+			       <name>Контейнер для контактных линз</name>
+				<description>Контейнер для контактных линз из аниме - купить за 150 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3620975329" available="true">
+			       <url>https://diskomir.ru/catalog/likontin_neo_multi_240_ml_rastvor_dlya_kontaktnykh_linz_313644/</url>
+			       <price>425</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>621590906</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/92f/92fa73448ea7b72bfd290bc59bd8a4b9.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Ликонтин Neo Мульти (240 мл) раствор для контактны</vendor>
+			       <name>Ликонтин Neo Мульти (240 мл) раствор для контактных линз</name>
+				<description>Ликонтин Neo Мульти (240 мл) раствор для контактных линз - купить за 425 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3825099789" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_g_g_sclera_orange_demon_sklera_oranzhevyy_demon_99704/</url>
+			       <price>2500</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3188479150</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/98b/98b2cc142060ad51d1bf787eed749279.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "G&amp;G" Sclera Ora</vendor>
+			       <name>Линзы цветные контактные для глаз "G&amp;G" Sclera Orange Demon - Склера Оранжевый демон</name>
+				<description>Линзы цветные контактные для глаз "G&amp;G" Sclera Orange Demon - Склера Оранжевый демон из аниме - купить за 2500 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Оранжевый</param>
+			</offer>
+			<offer id="3771372791" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_g_g_sclera_red_demon_sklera_krasnyy_demon_99708/</url>
+			       <price>2500</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3188479150</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5ff/5ffefec92e2b23a18dd43485d0567dae.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "G&amp;G" Sclera Red</vendor>
+			       <name>Линзы цветные контактные для глаз "G&amp;G" Sclera Red Demon - Склера Красный демон</name>
+				<description>Линзы цветные контактные для глаз "G&amp;G" Sclera Red Demon - Склера Красный демон из аниме - купить за 2500 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="139024542" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_bungou_stray_dogs_osamu_dazai_atsushi_nakajima_ryuunosuke_akutagawa_ranpo_edogawa_5/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a82/mow12gb9o0dqsyskjt2cltoqtfpd14wf/plakat-bumazhnyy-bungou-stray-dogs-osamu-dazai-atsushi-nakajima-ryuunosuke-akutagawa-ranpo-edogawa.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Bungou Stray Dogs - Osamu Dazai, A</vendor>
+			       <name>Плакат бумажный Bungou Stray Dogs - Osamu Dazai, Atsushi Nakajima, Ryuunosuke Akutagawa, Ranpo Edogawa</name>
+				<description>Плакат бумажный Bungou Stray Dogs - Osamu Dazai, Atsushi Nakajima, Ryuunosuke Akutagawa, Ranpo Edogawa из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2781842066" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_bungou_stray_dogs_osamu_dazai_ranpo_edogawa_atsushi_nakajima_480527/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/792/79243e96661b20c940ca1e154602e7f9.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Bungou Stray Dogs Osamu Dazai, Ran</vendor>
+			       <name>Плакат бумажный Bungou Stray Dogs Osamu Dazai, Ranpo Edogawa, Atsushi Nakajima</name>
+				<description>Плакат бумажный Bungou Stray Dogs Osamu Dazai, Ranpo Edogawa, Atsushi Nakajima из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="881666916" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_brodyachie_psy_osamu_dadzay_koshka_osamu_dazai_cat_623141/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/40d/io546wnebv9yzpbxt9k3o92dgbe0msye/brelok-akrilovyy-brodyachie-psy-osamu-dadzay-koshka-osamu-dazai-cat.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Бродячие псы - Осаму Дадзай Кошка</vendor>
+			       <name>Брелок акриловый Бродячие псы - Осаму Дадзай Кошка (Osamu Dazai Cat)</name>
+				<description>Брелок акриловый Бродячие псы - Осаму Дадзай Кошка (Osamu Dazai Cat) из аниме Bungou Stray Dogs - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="750208817" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_bungou_stray_dogs_chuuya_nakahara_osamu_dazai_480526/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3af/3af6136119b6f7d9d14fb3a1dd13f015.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Bungou Stray Dogs Chuuya Nakahara,</vendor>
+			       <name>Плакат бумажный Bungou Stray Dogs Chuuya Nakahara, Osamu Dazai</name>
+				<description>Плакат бумажный Bungou Stray Dogs Chuuya Nakahara, Osamu Dazai из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3960707994" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_10_bungo_stray_dogs_vol_10_638712/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7dd/a92ikmaz4w4on7eto5eqm6d62yzky1km/manga-proza-brodyachikh-psov-tom-10-bungo-stray-dogs-vol-10.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 10 / Bungo Stray Do</vendor>
+			       <name>Манга Проза бродячих псов. Том 10 / Bungo Stray Dogs. Vol. 10</name>
+				<description>Манга Проза бродячих псов. Том 10 / Bungo Stray Dogs. Vol. 10 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2572705040" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_2_bungo_stray_dogs_vol_2_599527/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e37/k4gprluvabpc5ra3054id99ddw3epn5x/manga-proza-brodyachikh-psov-tom-2-bungo-stray-dogs-vol-2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 2 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 2 / Bungo Stray Dogs. Vol. 2</name>
+				<description>Манга Проза бродячих псов. Том 2 / Bungo Stray Dogs. Vol. 2 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="613681151" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_4_bungo_stray_dogs_vol_4_611523/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f3e/lhz7iqfoq8oi9j76sf6dx0uix11mywm2/manga-proza-brodyachikh-psov-tom-4-bungo-stray-dogs-vol-4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 4 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 4 / Bungo Stray Dogs. Vol. 4</name>
+				<description>Манга Проза бродячих псов. Том 4 / Bungo Stray Dogs. Vol. 4 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="113320946" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_5_bungo_stray_dogs_vol_5_611525/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/86b/1hkhpdzbwfjwke33ym7zsd9l4fvclbnv/manga-proza-brodyachikh-psov-tom-5-bungo-stray-dogs-vol-5.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 5 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 5 / Bungo Stray Dogs. Vol. 5</name>
+				<description>Манга Проза бродячих псов. Том 5 / Bungo Stray Dogs. Vol. 5 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3547679256" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_6_bungo_stray_dogs_vol_6_611526/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/722/6jt53qfrd6k3dvmo7v8b901rg4b4cu17/manga-proza-brodyachikh-psov-tom-6-bungo-stray-dogs-vol-6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 6 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 6 / Bungo Stray Dogs. Vol. 6</name>
+				<description>Манга Проза бродячих псов. Том 6 / Bungo Stray Dogs. Vol. 6 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2486278220" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_3_bungo_stray_dogs_vol_3_605489/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7ed/ko1y920m4jvik181lqg3vi4vidz0ybnv/manga-proza-brodyachikh-psov-tom-3-bungo-stray-dogs-vol-3.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 3 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 3 / Bungo Stray Dogs. Vol. 3</name>
+				<description>Манга Проза бродячих псов. Том 3 / Bungo Stray Dogs. Vol. 3 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4246727858" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_1_bungo_stray_dogs_vol_1_584126/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3dd/proza-brodyachikh-psov-tom-1-bungo-stray-dogs-vol-1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 1 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 1 / Bungo Stray Dogs. Vol. 1</name>
+				<description>Манга Проза бродячих псов. Том 1 / Bungo Stray Dogs. Vol. 1 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3983462679" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_7_bungo_stray_dogs_vol_7_626978/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9d7/uu1bsk45n3ue5mi2k9yn0yw1ppyv88zm/manga-proza-brodyachikh-psov-tom-7-bungo-stray-dogs-vol-7.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 7 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 7 / Bungo Stray Dogs. Vol. 7</name>
+				<description>Манга Проза бродячих псов. Том 7 / Bungo Stray Dogs. Vol. 7 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2572185131" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_8_bungo_stray_dogs_vol_8_626979/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/0d9/46llol5vbd742jkfmxi423b0r09rayo0/manga-proza-brodyachikh-psov-tom-8-bungo-stray-dogs-vol-8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 8 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 8 / Bungo Stray Dogs. Vol. 8</name>
+				<description>Манга Проза бродячих псов. Том 8 / Bungo Stray Dogs. Vol. 8 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2034447779" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_bungou_stray_dogs_armed_detective_agency_480519/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/958/95892f06119f4592f0d490a97d7c5ed6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Bungou Stray Dogs - Armed Detectiv</vendor>
+			       <name>Плакат бумажный Bungou Stray Dogs - Armed Detective Agency</name>
+				<description>Плакат бумажный Bungou Stray Dogs - Armed Detective Agency из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2511740871" available="true">
+			       <url>https://diskomir.ru/catalog/stikery_vinilovye_s_artami_velikiy_iz_brodyachikh_psov_549624/</url>
+			       <price>190</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2304024291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e18/e18025aa5b9a6c8871cc241395a93e5d.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Стикеры виниловые с артами Великий из Бродячих Псо</vendor>
+			       <name>Стикеры виниловые с артами Великий из Бродячих Псов</name>
+				<description>Стикеры виниловые с артами Великий из Бродячих Псов из аниме Бродячие псы - купить за 190 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4122111885" available="true">
+			       <url>https://diskomir.ru/catalog/manga_proza_brodyachikh_psov_tom_9_bungo_stray_dogs_vol_9_638710/</url>
+			       <price>670</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/601/2glpt8691zpoir1mbz5cj9xhc6q29zv8/manga-proza-brodyachikh-psov-tom-9-bungo-stray-dogs-vol-9.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Проза бродячих псов. Том 9 / Bungo Stray Dog</vendor>
+			       <name>Манга Проза бродячих псов. Том 9 / Bungo Stray Dogs. Vol. 9</name>
+				<description>Манга Проза бродячих псов. Том 9 / Bungo Stray Dogs. Vol. 9 - купить за 670 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3848282811" available="true">
+			       <url>https://diskomir.ru/catalog/brelok_akrilovyy_brodyachie_psy_chuya_koshka_chuya_cat_623147/</url>
+			       <price>250</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1943876120</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/79e/l9epcm4rf4zuixs0wpwcxdw6vjixsp58/brelok-akrilovyy-brodyachie-psy-chuya-koshka-chuya-cat.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Брелок акриловый Бродячие псы - Чуя Кошка (Chuya C</vendor>
+			       <name>Брелок акриловый Бродячие псы - Чуя Кошка (Chuya Cat)</name>
+				<description>Брелок акриловый Бродячие псы - Чуя Кошка (Chuya Cat) из аниме Bungou Stray Dogs - купить за 250 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2443327695" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_velikiy_iz_brodyachikh_psov_chibiki_549640/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/33a/33a0a28d899b54276630d4167d387bd6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Великий из Бродячих Псов - Чибики</vendor>
+			       <name>Наклейки Великий из Бродячих Псов - Чибики</name>
+				<description>Наклейки Великий из Бродячих Псов - Чибики из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="986458329" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_v_assortimente_brodyachie_psy_631048/</url>
+			       <price>400</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1632095291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/85f/me4yp84eeq1iqppf79fo60vb5r64ev2x/figurka-v-assortimente-brodyachie-psy.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка в ассортименте Бродячие псы</vendor>
+			       <name>Фигурка в ассортименте Бродячие псы</name>
+				<description>Фигурка в ассортименте Бродячие псы из аниме Bungou Stray Dogs - купить за 400 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3523048391" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_s_artami_bungou_stray_dogs_no_3_548088/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/091/091f64735e6642d5ecf13f7673a50c8f.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки с артами Bungou Stray Dogs No.3</vendor>
+			       <name>Наклейки с артами Bungou Stray Dogs No.3</name>
+				<description>Наклейки с артами Bungou Stray Dogs No.3 из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2985501391" available="true">
+			       <url>https://diskomir.ru/catalog/otkrytka_iz_anime_brodyachie_psy_557517/</url>
+			       <price>50</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3007283184</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/d79/otkrytka-iz-anime-brodyachie-psy.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Открытка из аниме Бродячие псы</vendor>
+			       <name>Открытка из аниме Бродячие псы</name>
+				<description>Открытка из аниме Бродячие псы почтовая карточка из аниме Bungou Stray Dogs - купить за 50 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3667003739" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_bungou_stray_dogs_no_1_502994/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/1d6/1d6bdf03163536d7691b572f80ff37ac.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Bungou Stray Dogs No.1</vendor>
+			       <name>Наклейки Bungou Stray Dogs No.1</name>
+				<description>Наклейки Bungou Stray Dogs No.1 из аниме Бродячие псы - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2987767131" available="true">
+			       <url>https://diskomir.ru/catalog/lutboks_brodyachie_psy_544963/</url>
+			       <price>990</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4022218322</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/301/3010ac38064d3bb3d23c6c7f7f6b39cf.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Лутбокс Бродячие Псы</vendor>
+			       <name>Лутбокс Бродячие Псы</name>
+				<description>Лутбокс Бродячие Псы из аниме Bungou Stray Dogs - купить за 990 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3839492700" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_lotte_cool_mint_osvezhayushchaya_myata_19_2g_331238/</url>
+			       <price>120</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/c09/c094476f242ba96f63cc5a0a4a76b971.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная резинка ЛОТТЕ COOL MINT Освежающая мят</vendor>
+			       <name>Жевательная резинка ЛОТТЕ COOL MINT Освежающая мята 19,2г</name>
+				<description>Жевательная резинка ЛОТТЕ COOL MINT Освежающая мята 19,2г LOTTE жев.резинка освежающая мята (COOL MINT), 19,1 г. 1*15шт*20бл Арт-48552 - купить за 120 руб.</description>
+				<count>50</count>
+				<param name="Вес" unit="г">19.2</param>
+			</offer>
+			<offer id="860360391" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_coris_s_napolnitelem_so_vkusom_vinograda_14_4g_365297/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/1b6/1b61c3c85f27cbd992712168f9cdec14.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная резинка CORIS с наполнителем со вкусом</vendor>
+			       <name>Жевательная резинка CORIS с наполнителем со вкусом винограда 14,4г</name>
+				<description>Жевательная резинка CORIS с наполнителем со вкусом винограда 14,4г - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Вес" unit="г">14.4</param>
+			</offer>
+			<offer id="1747222261" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_drakula_marukawa_so_vkusom_koly_13g_yaponiya_638910/</url>
+			       <price>70</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/583/ntz1j7e1r5q2w7l9stkkm53uv1qynm52/zhevatelnaya-rezinka-drakula-marukawa-so-vkusom-koly-13g-yaponiya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная резинка Дракула Marukawa со вкусом кол</vendor>
+			       <name>Жевательная резинка Дракула Marukawa со вкусом колы, 13г, Япония</name>
+				<description>Жевательная резинка Дракула Marukawa со вкусом колы, 13г, Япония МАРУКАВА 8,4 г Жев. резинка MARUKAWA "Дракула" 8,4 гр шарики (красн.).блок 18 шт. 1/18/432, Япония - купить за 70 руб.</description>
+			</offer>
+			<offer id="2084571325" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_coris_s_napolnitelem_so_vkusom_koly_14_4g_374089/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9d6/9d67450644dae0bec08fa833ab29bbf6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная резинка CORIS с наполнителем со вкусом</vendor>
+			       <name>Жевательная резинка CORIS с наполнителем со вкусом колы 14,4г</name>
+				<description>Жевательная резинка CORIS с наполнителем со вкусом колы 14,4г Жевательная резинка с наполнителем со вкусом колы, т.м. "CORIS" - купить за 100 руб.</description>
+				<count>50</count>
+				<param name="Вес" unit="г">14.4</param>
+			</offer>
+			<offer id="1762359503" available="true">
+			       <url>https://diskomir.ru/catalog/coris_zhevatelnaya_rezinka_s_perevodilkoy_uzhasy_3_5_gr_628131/</url>
+			       <price>330</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/06f/baroxc6vne411lgnim26yncmyfsr96qg/coris-zhevatelnaya-rezinka-s-perevodilkoy-uzhasy-3-5-gr.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Coris жевательная резинка с переводилкой «Ужасы», </vendor>
+			       <name>Coris жевательная резинка с переводилкой «Ужасы», 3.5 гр.</name>
+				<description>Coris жевательная резинка с переводилкой «Ужасы», 3.5 гр. за 330 руб. Coris «жевательная резинка, с переводилкой «Ужасы», 3,5 гр, 20 шт *12 бл Арт-61128 - купить с доставкой по всей России.</description>
+				<param name="Вес" unit="гр">3.5</param>
+			</offer>
+			<offer id="1995843171" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_marukawa_vinograd_5_4g_331242/</url>
+			       <price>40</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5ff/5ff2e8eede84f1dcd3ae5802d8a4d454.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная Резинка Marukawa Виноград 5,4г</vendor>
+			       <name>Жевательная Резинка Marukawa Виноград 5,4г</name>
+				<description>Жевательная Резинка Marukawa Виноград 5,4г Жевательная резинка MARUKAWA, виноград (шары) - купить за 40 руб.</description>
+				<count>50</count>
+				<param name="Вес" unit="г">5.4</param>
+			</offer>
+			<offer id="1604310483" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_marukawa_klubnika_5_4g_331243/</url>
+			       <price>40</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3e1/3e14dc1ece247555aeb9e10656e72f9f.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная Резинка Marukawa Клубника 5,4г</vendor>
+			       <name>Жевательная Резинка Marukawa Клубника 5,4г</name>
+				<description>Жевательная Резинка Marukawa Клубника 5,4г Жевательная резинка MARUKAWA, клубника (шары) - купить за 40 руб.</description>
+				<count>50</count>
+				<param name="Вес" unit="г">5.4</param>
+			</offer>
+			<offer id="990667816" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_marukawa_dynya_5_4g_331244/</url>
+			       <price>40</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/561/561e001d5b837557efcd21058fb4116b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная резинка Marukawa Дыня 5,4г</vendor>
+			       <name>Жевательная резинка Marukawa Дыня 5,4г</name>
+				<description>Жевательная резинка Marukawa Дыня 5,4г Жевательная резинка MARUKAWA, дыня (шары) - купить за 40 руб.</description>
+				<param name="Вес" unit="г">5.4</param>
+			</offer>
+			<offer id="2628343682" available="true">
+			       <url>https://diskomir.ru/catalog/itsuki_udon_pshenichnaya_lapsha_po_derevenski_639596/</url>
+			       <price>240</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4235899904</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a28/p2pq73jzpgvcyufico5x0j30b64r888m/itsuki-udon-pshenichnaya-lapsha-po-derevenski.webp</picture>
+				<delivery>true</delivery>
+				<vendor>ITSUKI Удон (пшеничная лапша) по-деревенски</vendor>
+			       <name>ITSUKI Удон (пшеничная лапша) по-деревенски</name>
+				<description>ITSUKI Удон (пшеничная лапша) по-деревенски за 240 руб. ITSUKI Удон (пшеничная лапша) по-деревенски, 109 гр, 12 шт., Арт-11027 - купить с доставкой по всей России.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2176119638" available="true">
+			       <url>https://diskomir.ru/catalog/zhevatelnaya_rezinka_grin_gam_green_gum_331237/</url>
+			       <price>120</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2997377340</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/714/71411080bcbcc0054bb0e27f1d365a2c.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Жевательная Резинка Грин Гам Green Gum</vendor>
+			       <name>Жевательная Резинка Грин Гам Green Gum</name>
+				<description>Жевательная Резинка Грин Гам Green Gum LOTTE жев.резинка (GREEN GUM),31 г. 1*20бл*15шт Арт-68307 - купить за 120 руб.</description>
+				<param name="Цвет">Зеленый</param>
+				<count>50</count>
+			</offer>
+			<offer id="1918685316" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_1_pes_i_benzopila_benzopila_protiv_netopyrya_606709/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b9d/spmxq5c27p292xav53l28chjoojh90in/manga-chelovek-benzopila-kniga-1-pes-i-benzopila-benzopila-protiv-netopyrya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 1. Пес и бензопила.</vendor>
+			       <name>Манга Человек-бензопила. Книга 1. Пес и бензопила. Бензопила против нетопыря</name>
+				<description>Манга Человек-бензопила. Книга 1. Пес и бензопила. Бензопила против нетопыря - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3011902274" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_2_ubit_dendzi_moshch_ognestrelnogo_oruzhiya_609632/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/55a/l5cb3dsdla7rjtuuyl2o7s06qwplprdq/manga-chelovek-benzopila-kniga-2-pes-i-benzopila-benzopila-protiv-netopyrya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 2. Убить Дэндзи. Мо</vendor>
+			       <name>Манга Человек-бензопила. Книга 2. Убить Дэндзи. Мощь огнестрельного оружия</name>
+				<description>Манга Человек-бензопила. Книга 2. Убить Дэндзи. Мощь огнестрельного оружия - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2591661472" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_5_kupanie_v_vanne_chuvstva_sobaki_630172/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9c5/whe2hma9z8afyxb6ljrm1adatpnhajp7/manga-chelovek-benzopila-kniga-5-kupanie-v-vanne-chuvstva-sobaki.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 5. Купание в ванне.</vendor>
+			       <name>Манга Человек-бензопила. Книга 5. Купание в ванне. Чувства собаки</name>
+				<description>Манга Человек-бензопила. Книга 5. Купание в ванне. Чувства собаки - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1679758321" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_3_nesovershennoletniy_bum_bum_bum_612863/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/6d4/eehq6l682ixxievm33jnbr2egmsm3hw4/manga-chelovek-benzopila-kniga-3-nesovershennoletniy-bum-bum-bum.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 3. Несовершеннолетн</vendor>
+			       <name>Манга Человек-бензопила. Книга 3. Несовершеннолетний. Бум-бум-бум</name>
+				<description>Манга Человек-бензопила. Книга 3. Несовершеннолетний. Бум-бум-бум - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3516709520" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_4_vo_sne_nastoyashchaya_zhest_620805/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/213/fv1h998f3ymjul4v60c6h4ryvv3h3fmy/manga-chelovek-benzopila-kniga-4-vo-sne-nastoyashchaya-zhest.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 4. Во сне. Настояща</vendor>
+			       <name>Манга Человек-бензопила. Книга 4. Во сне. Настоящая жесть</name>
+				<description>Манга Человек-бензопила. Книга 4. Во сне. Настоящая жесть - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2335584152" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_6_vpered_chelovek_benzopila_631352/</url>
+			       <price>630</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9bd/ijolzmnr3uj9o344qw115x57cikzz5g0/manga-chelovek-benzopila-kniga-6-vpered-chelovek-benzopila.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 6. Вперед, Человек-</vendor>
+			       <name>Манга Человек-бензопила. Книга 6. Вперед, Человек-бензопила!</name>
+				<description>Манга Человек-бензопила. Книга 6. Вперед, Человек-бензопила! - купить за 630 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3096443057" available="true">
+			       <url>https://diskomir.ru/catalog/manga_chelovek_benzopila_kniga_7_ptitsa_i_voyna_640151/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a03/tkymktblj7qnuum024oaq75aosgqhwym/manga-chelovek-benzopila-kniga-7-ptitsa-i-voyna.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга Человек-бензопила. Книга 7. Птица и война</vendor>
+			       <name>Манга Человек-бензопила. Книга 7. Птица и война</name>
+				<description>Манга Человек-бензопила. Книга 7. Птица и война - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="345280703" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_cherno_belaya_pentagramma_105_46801/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/789/78978c92cb34f7dd06fa775f678a2a98.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Черно-белая пентаграмма 105</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Черно-белая пентаграмма 105 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Белый</param>
+			</offer>
+			<offer id="2755747324" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_fioletovoe_belmo_108_46803/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/f1b/f1b243f596c1b7ed9f61540a2e7475f0.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Фиолетовое бельмо 108</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Фиолетовое бельмо 108 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Фиолетовый</param>
+			</offer>
+			<offer id="2993887707" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_fioletovo_zheltyy_dyavol_083_73101/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ef/9ef5ca39b2b9da33a6a259f9d0d3c6da.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Фиолетово-желтый дьявол 083</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Фиолетово-желтый дьявол 083 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+
+				<param name="Цвет">Желтый</param>
+			</offer>
+			<offer id="2739548335" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_krasnaya_liliya_081_46793/</url>
+			       <price>445</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/195/1951c8bb976c456fe441064b1be1e6a7.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Красная лилия 081</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Красная лилия 081 из аниме - купить за 445 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="715301379" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_golubaya_zvezda_072_55796/</url>
+			       <price>267</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/200/200af0e63142b2342b4b25b692e6af1f.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Голубая звезда 072</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Голубая звезда 072 из аниме - купить за 267 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Голубой</param>
+			</offer>
+			<offer id="3008537272" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_zelenoe_belmo_110_46805/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/77b/77bf6edd59b23b9d635f3414160a8068.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Зеленое бельмо 110</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Зеленое бельмо 110 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="2614336764" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_rozovoe_belmo_111_46806/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f2f/f2fa3a8d9bedad7b98232c1ac210def8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Розовое бельмо 111</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Розовое бельмо 111 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Розовый</param>
+			</offer>
+			<offer id="3722708950" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_circle_q12_black_55954/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4d3/4d3d82c838612daf5666b338e7074980.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Circle-Q12 Black</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Circle-Q12 Black из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="1765563199" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_uchiha_itachi_199_624484/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/599/g6ulhmgfl5uuddn4ongnd3wjbsgjpweu/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-uchiha-itachi-c2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Uchiha Itachi #199</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Uchiha Itachi #199 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2812582279" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_akvamarin_024_46743/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ce/9cea90bd1b547edbcf24581426d3f840.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Аквамарин 024</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Аквамарин 024 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4263117661" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_q18_2_violet_55811/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/de5/de508acc83c1b3ccbe26c73983027708.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Q18-2 Violet</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Q18-2 Violet из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Фиолетовый</param>
+			</offer>
+			<offer id="2778225843" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_dm25_2_green_55882/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e48/e48b12563fa6a16d6e43deef2fc6c6f4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" DM25-2 Green</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" DM25-2 Green из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="1634144217" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_tsvetok_085_46796/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3a6/3a684382a1dadcfc8decfa4eb72d20fe.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Цветок 085</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Цветок 085 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2384506952" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_dm25_2_blue_55884/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/edf/edfb8514a0bcd6b0dd4cfed666b507e8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" DM25-2 Blue</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" DM25-2 Blue из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="749262854" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_kiborg_075_46773/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/095/09522728864e3ae64d17cf9f80e86c8e.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Киборг 075</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Киборг 075 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2233607077" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_spiral_077_46790/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/008/008cfe65f58bb4330e3862908f174b42.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Спираль 077</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Спираль 077 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="523593328" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_vzryv_112_46807/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ff1/ff18a06d5f26eb9e68cdd39d7533960b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Взрыв 112</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Взрыв 112 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="848972304" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_fioletovyy_159_624640/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/609/38kv6q20fqkzyi9zn3s2fxt8dnaz1tf8/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-c4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Фиолетовый #159</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Фиолетовый #159 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Фиолетовый</param>
+			</offer>
+			<offer id="1946937508" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_atom_044_46755/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/dd5/dd5b52d42b7d987eb5239c48614f63e5.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Атом 044</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" Атом 044 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="62734221" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_a_brown_55984/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/304/304cfe54c7c45163fea3f8f62490fe50.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" A Brown</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" A Brown из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="3841809518" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_gipnolinza_krasnaya_spiral_186_624955/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7bd/tgsidzwc3d6q4v7hpeqglmo4neqon1cg/tsvetnye-karnavalnye-linzy-maxiy-girl-gipnolinza-krasnaya-spiral-c23.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Гипнолинза К</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Гипнолинза Красная спираль #186</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Гипнолинза Красная спираль #186 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="3860782550" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_e_green_55942/</url>
+			       <price>445</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9e5/9e57cad4beb99e482d48240e723e007a.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" E Green</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" E Green из аниме - купить за 445 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="447758476" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_chernoe_belmo_014_46737/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b8f/b8f015bd2369c9105ed40d9242106a2a.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" Черное бельмо 014</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" Черное бельмо 014 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="384354173" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_zheltyy_160_624650/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9a7/24t5qmq26lcskvl02oo8qhsenb3wj25b/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-zheltyy-c5.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Желтый #160</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Желтый #160 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Желтый</param>
+			</offer>
+			<offer id="1123319411" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_krasnoe_belmo_020_46740/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/6e7/6e7836c6adf0271926345b4c0b967d9f.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" Красное бельмо 020</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" Красное бельмо 020 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="2772476628" available="true">
+			       <url>https://diskomir.ru/catalog/linzy_tsvetnye_kontaktnye_dlya_glaz_colors_eye_free_carnival_a_sky_55987/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/088/088fb3647a788f7e789f23ee5e57d293.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Линзы цветные контактные для глаз "Colors Eye Free</vendor>
+			       <name>Линзы цветные контактные для глаз "Colors Eye Free Carnival" A Sky</name>
+				<description>Линзы цветные контактные для глаз "Colors Eye Free Carnival" A Sky из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="454207051" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_chernaya_spiral_185_624487/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/c5f/zdozuu7x8oi88f0rljjxgmq7x8wq7gnj/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-chernaya-spiral-c22.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Черна</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Черная спираль #185</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Черная спираль #185 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="2206019602" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_belyy_161_624649/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/bf6/ndwjm7qh8xbifea1e93xyerrfcxwvif2/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-c6.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Белый #161</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган Белый #161 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Белый</param>
+			</offer>
+			<offer id="497395584" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_aurora_2_yellow_green_34_625095/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/c34/prk1vvj0nw3wrj9yplyo2fif0jykeq7m/ottenochnye-kontaktnye-linzy-maxiy-girl-aurora-2-yellow-green.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Aurora 2 Ye</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Aurora 2 Yellow Green #34</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Aurora 2 Yellow Green #34 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Желтый</param>
+			</offer>
+			<offer id="4174916824" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_gipnolinza_026_46745/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/cdc/cdc474fc2d6ba5f26094aa3d3ab70cac.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" Гипнолинза 026</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" Гипнолинза 026 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1680821227" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_pure_brilliant_blue_218_625073/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/109/uglt1ujrutr2nofekh8jm7zsne8a0lpt/ottenochnye-kontaktnye-linzy-maxiy-girl-pure-brilliant-blue-218.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Pure Brilli</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Pure Brilliant Blue #218</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Pure Brilliant Blue #218 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="105310984" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_pure_sterling_gray_112_625074/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a5e/8xzpezxer3917f9uffc2lpriyl6v9waj/ottenochnye-kontaktnye-linzy-maxiy-girl-pure-sterling-grey.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Pure Sterli</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Pure Sterling Gray #112</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Pure Sterling Gray #112 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Серый</param>
+			</offer>
+			<offer id="1869195585" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_uchiha_madara_198_624506/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/e07/63t7lnuykthd2qv0rszrhtk8t3wwq4n0/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-uchiha-madara-c1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Naruto Uchih</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Naruto Uchiha Madara #198</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Naruto Uchiha Madara #198 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="787609542" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_purple_black_circle_143_624622/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/913/c4hdpro17sa8qm304jw6cw58vkg5p545/tsvetnye-karnavalnye-linzy-maxiy-girl-purple-black-circle-c76.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Purple Black</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Purple Black Circle #143</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Purple Black Circle #143 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Фиолетовый</param>
+			</offer>
+			<offer id="847941597" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_big_eye_girl_brown_75_625052/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/320/q1nblfplhm9rjq4e6myleg2aa5z9hbvq/ottenochnye-kontaktnye-linzy-maxiy-girl-big-eye-girl-brown.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Big Eye Gir</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Big Eye Girl Brown #75</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Big Eye Girl Brown #75 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="3042334444" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_smaylik_008_46734/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/97c/97c3743ed4e5ba2968db3b838219d25b.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" Смайлик 008</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" Смайлик 008 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1870282943" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_big_eye_girl_pink_76_625053/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/1b2/qjgu0ie3gbft7czf3a9he04upnemlysn/ottenochnye-kontaktnye-linzy-maxiy-girl-big-eye-girl-pink.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Big Eye Gir</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Big Eye Girl Pink #76</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Big Eye Girl Pink #76 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Розовый</param>
+			</offer>
+			<offer id="2016006144" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_3_magatama_162_624485/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b9d/8zi2lyuo59jbkmrzfdfufd8lsefppa7g/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-3-magatama-c3.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто 3 Mag</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто 3 Magatama #162</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто 3 Magatama #162 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3768514343" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_tx13_black_99873/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/a92/a9250e4b93b7c844cf8e6538f6cfe2d8.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" TX13 Black</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" TX13 Black из аниме - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="1789450637" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_randevu_s_zhiznyu_202_624639/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f96/t5v8jqfz4dsr4rcwz38tlgj18hdgjb5g/tsvetnye-karnavalnye-linzy-maxiy-girl-kurumi-tokisaki-iz-anime-randevu-s-zhiznyu-c18.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Рандеву с Жи</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Рандеву с Жизнью #202</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Рандеву с Жизнью #202 из аниме Рандеву с жизнью - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="380650476" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_a12_brown_547898/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ff/9ff23263102bf99ac393d7d99678e3be.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" A12 Brown</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" A12 Brown - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="3361500632" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_197_624603/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/898/kw69ksku11nurjd5wacs1mjqaz7qozzx/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-c17.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Naruto Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Naruto Шаринган #197</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Naruto Шаринган #197 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2066661491" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_temnyy_dvoretskiy_200_624632/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/749/wh9zm57lah8rld64qvycnpbkdmb3i437/tsvetnye-karnavalnye-linzy-maxiy-girl-temnyy-dvoretskiy-c11.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Темный дворе</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Темный дворецкий #200</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Темный дворецкий #200 из аниме Kuroshitsuji / Black Butler - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3537431308" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_lee_buble_green_59_625047/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/314/gep5qf3u5kncrn4onnxi81nb2nc6dnsd/ottenochnye-kontaktnye-linzy-maxiy-girl-lee-buble-green.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Lee Buble G</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Lee Buble Green #59</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Lee Buble Green #59 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="2348444660" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_lee_buble_brown_55_625045/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/305/mtzyyj4buzfacvukbv11xz7hx1lu1hwn/ottenochnye-kontaktnye-linzy-maxiy-girl-lee-buble-brown.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Lee Buble B</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Lee Buble Brown #55</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Lee Buble Brown #55 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="1128771351" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_colors_eye_free_carnival_belmo_003_46729/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/020/0200c1e5b5619fa4b175cdd1de63e532.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз "Colors Eye Free Carnival" </vendor>
+			       <name>Цветные линзы для глаз "Colors Eye Free Carnival" Бельмо 003</name>
+				<description>Цветные линзы для глаз "Colors Eye Free Carnival" Бельмо 003 из аниме - купить за 890 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1913871850" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_dandelion_brown_93_625104/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/96a/qox6i50k1qvoikljxi69im329y8lnzfy/ottenochnye-kontaktnye-linzy-maxiy-girl-dandelion-brown.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Dandelion B</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Dandelion Brown #93</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Dandelion Brown #93 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="1207531749" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_naruto_sharingan_204_624486/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/70a/7al8ua86flb25vvye0jev0vwlh38esoq/tsvetnye-karnavalnye-linzy-maxiy-girl-naruto-sharingan-c27.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Наруто Шарин</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган #204</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Наруто Шаринган #204 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1589413637" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_milkshake_blue_65_625110/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4ac/tjfkc6olb24ny209t60b59yr9llf7opn/ottenochnye-kontaktnye-linzy-maxiy-girl-milkshake-blue.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Milkshake B</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Milkshake Blue #65</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Milkshake Blue #65 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="237645410" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_aurora_2_brown_37_625098/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5ef/brpmmmxxlqymwoxlcjs7f7gir8dn679t/ottenochnye-kontaktnye-linzy-maxiy-girl-aurora-2-brown.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Aurora 2 Br</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Aurora 2 Brown #37</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Aurora 2 Brown #37 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="3417488569" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_pro_caramel_100_2_626933/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9ae/y7a4uk0mlsbuasxu3qn2rjbdgxqo5hi4/ottenochnye-kontaktnye-linzy-maxiy-girl-pro-caramel-100-2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl PRO Caramel</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl PRO Caramel #100-2</name>
+				<description>Оттеночные контактные линзы Maxiy Girl PRO Caramel #100-2 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3341845913" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_zelenaya_koshka_183_625039/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/aec/aut3hft0g4gfty0jpmlb1b7797doaag1/tsvetnye-karnavalnye-linzy-maxiy-girl-zelenaya-koshka.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Зеленая Кошк</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Зеленая Кошка #183</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Зеленая Кошка #183 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="3796393976" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_krasnaya_koshka_184_625042/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7f4/kflg2o628n2o0q4bg2vtn6mnznsemg1q/tsvetnye-karnavalnye-linzy-maxiy-girl-krasnaya-koshka.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Красная Кошк</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Красная Кошка #184</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Красная Кошка #184 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="3719322615" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_milkshake_pink_64_625108/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3c8/f7r02dutga2pch8xl2nc5caakggt08ed/ottenochnye-kontaktnye-linzy-maxiy-girl-milkshake-pink.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Milkshake P</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Milkshake Pink #64</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Milkshake Pink #64 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Розовый</param>
+			</offer>
+			<offer id="3452704851" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_cherno_krasnye_206_625037/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/86a/ffmjbirmrfmp8uqqla2v468dw0143z4x/tsvetnye-karnavalnye-linzy-maxiy-girl-close-cherno-krasnye-c25.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Черно-красны</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Черно-красные #206</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Черно-красные #206 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="1558437392" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_krasnyy_dyavol_173_624828/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/50e/pacgm0w4uzqf2n1q0xzkcrcgulcw7i3l/tsvetnye-karnavalnye-linzy-maxiy-girl-krasnyy-dyavol.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Красный дьяв</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Красный дьявол #173</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Красный дьявол #173 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="3728386191" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_chernoe_belmo_124_624427/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/892/ad99f41j225uvv5mubab5bdf33sysa1g/tsvetnye-karnavalnye-linzy-maxiy-girl-chernoe-belmo-c60.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Черное бельм</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Черное бельмо #124</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Черное бельмо #124 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="1519752495" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_goddess_green_54_625228/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/58b/hilhsb30jw599fptw7fzcexxz9h0r4uz/ottenochnye-kontaktnye-linzy-maxiy-girl-goddess-green.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Goddess Gre</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Goddess Green #54</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Goddess Green #54 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="2818184750" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_zheltoe_belmo_123_624426/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5e3/9ek5vnyarix9pjvo3aepeu6r13e6x5dt/tsvetnye-karnavalnye-linzy-maxiy-girl-zheltoe-belmo-c56.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Желтое бельм</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Желтое бельмо #123</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Желтое бельмо #123 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Желтый</param>
+			</offer>
+			<offer id="3648997042" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_goddess_blue_48_625227/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/62f/moicdeoki32r8m0j1di555u8mm6gbkji/ottenochnye-kontaktnye-linzy-maxiy-girl-goddess-blue.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Goddess Blu</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Goddess Blue #48</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Goddess Blue #48 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="2496893561" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_chernoe_belmo_178_624605/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/648/e3ix09cu7gyd4nyc98dadx5xizl3codm/tsvetnye-karnavalnye-linzy-maxiy-girl-chernoe-belmo-c54.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Черное бельм</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Черное бельмо #178</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Черное бельмо #178 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="498062747" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_krasnoe_belmo_120_624422/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/d32/c8gmmfb5yne433c390jhs9xw41ha7l75/tsvetnye-karnavalnye-linzy-maxiy-girl-krasnoe-belmo.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Красное бель</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Красное бельмо #120</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Красное бельмо #120 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="825247343" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_honey_black_66_625213/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/58d/lfyi9kjsi7einsyh0rqz1vxpmzf00c1v/ottenochnye-kontaktnye-linzy-maxiy-girl-honey-black.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Honey Black</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Honey Black #66</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Honey Black #66 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Черный</param>
+			</offer>
+			<offer id="4187984288" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_krasnyy_ogon_166_624480/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/5ac/6vgh3rt1niq7iv1rkzipmic90sws2p4m/tsvetnye-karnavalnye-linzy-maxiy-girl-krasnyy-ogon-c7.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Красный огон</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Красный огонь #166</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Красный огонь #166 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Красный</param>
+			</offer>
+			<offer id="516712180" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_sunny_green_5_625169/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/74d/0bhgv29rsh6q1trkuwiz6e1od2p9y9j1/ottenochnye-kontaktnye-linzy-maxiy-girl-iris-sunny-green.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Sunny Green</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Sunny Green #5</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Sunny Green #5 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="3787319857" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_sinee_belmo_122_624425/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/758/a55vw8fimq6owb98ukqbpmoo53wkfj6e/tsvetnye-karnavalnye-linzy-maxiy-girl-sinee-belmo-c58.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Синее бельмо</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Синее бельмо #122</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Синее бельмо #122 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="492498455" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_beta_brown_38_625090/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/8ca/kzle63ffmvhtjk3zrj8cbxgi45q3kzap/ottenochnye-kontaktnye-linzy-maxiy-girl-beta-brown.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Beta Brown </vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Beta Brown #38</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Beta Brown #38 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="2646106886" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_iris_blue_104_625149/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a3b/x7g446607j15tj224stgdu7j3ut6qxl2/ottenochnye-kontaktnye-linzy-maxiy-girl-iris-blue.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Iris Blue #</vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Iris Blue #104</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Iris Blue #104 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="502612405" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_flame_eyes_217_624953/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/422/5tijshq02g6xnefw30n7d14ub379v0o2/tsvetnye-karnavalnye-linzy-maxiy-girl-flame-eyes-.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Flame Eyes #</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Flame Eyes #217</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Flame Eyes #217 - купить за 490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1178872712" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_siniy_ogon_165_624481/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/777/cgt68qf3xdeo885t93s32h3z6qec1eal/tsvetnye-karnavalnye-linzy-maxiy-girl-krasnyy-ogon-c10.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Синий огонь </vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Синий огонь #165</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Синий огонь #165 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="2414862851" available="true">
+			       <url>https://diskomir.ru/catalog/ottenochnye_kontaktnye_linzy_maxiy_girl_sunny_blue_4_625168/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/204/cmgiy7kolp2ykum1jz1fnnfchmgr9ud1/ottenochnye-kontaktnye-linzy-maxiy-girl-iris-sunny-blue.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Оттеночные контактные линзы Maxiy Girl Sunny Blue </vendor>
+			       <name>Оттеночные контактные линзы Maxiy Girl Sunny Blue #4</name>
+				<description>Оттеночные контактные линзы Maxiy Girl Sunny Blue #4 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="3036271772" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_zelenye_133_624475/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/aad/vri9p39g0r7b8ek0ry6y3skfpzt5tush/tsvetnye-karnavalnye-linzy-maxiy-girl-zelenye-c39.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Зеленые #133</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Зеленые #133</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Зеленые #133 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="2480966836" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_linzy_dlya_glaz_edg_eye_free_colors_blue_529233/</url>
+			       <price>890</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b40/b406ba6c161c384cfc1ac4b8b16d03fb.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные линзы для глаз EDG Eye Free Colors Blue</vendor>
+			       <name>Цветные линзы для глаз EDG Eye Free Colors Blue</name>
+				<description>Цветные линзы для глаз EDG Eye Free Colors Blue - купить за 890 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="826327785" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_white_193_624928/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/929/gpw9qkem18r0yb4fwd7dguc1of9ne310/tsvetnye-karnavalnye-linzy-maxiy-girl-white-c30.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl White #193</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl White #193</name>
+				<description>Цветные карнавальные линзы Maxiy Girl White #193 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Белый</param>
+			</offer>
+			<offer id="1758077934" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_green_127_624444/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4f3/nz4i75we4so60cmxxrf0vu2msahjxd6b/tsvetnye-karnavalnye-linzy-maxiy-girl-green-c31.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Green #127</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Green #127</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Green #127 - купить за 490 руб.</description>
+				<param name="Цвет">Зеленый</param>
+				<count>50</count>
+			</offer>
+			<offer id="4031463521" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_green_167_624787/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/7d1/pe8qjc5jtlx8e8ccq8q5f3x24nh86xcz/tsvetnye-karnavalnye-linzy-maxiy-girl-green-c73.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Green #167</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Green #167</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Green #167 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="1965106246" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_green_145_624647/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/9f2/kc3nt2d0ujbugs1rercliomu8fowwiyv/tsvetnye-karnavalnye-linzy-maxiy-girl-green-c50.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Green #145</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Green #145</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Green #145 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Зеленый</param>
+			</offer>
+			<offer id="954042367" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_brown_147_624642/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/6da/hqrnfrd81wypstpo2w2cgefqrp7oqa95/tsvetnye-karnavalnye-linzy-maxiy-girl-brone-c49.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Brown #147</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Brown #147</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Brown #147 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Коричневый</param>
+			</offer>
+			<offer id="2530741799" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_karnavalnye_linzy_maxiy_girl_blue_128_624445/</url>
+			       <price>490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/81f/n36uo4opsc9e53qxrpi6m2gcjfq0oi9g/tsvetnye-karnavalnye-linzy-maxiy-girl-blue-c36.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные карнавальные линзы Maxiy Girl Blue #128</vendor>
+			       <name>Цветные карнавальные линзы Maxiy Girl Blue #128</name>
+				<description>Цветные карнавальные линзы Maxiy Girl Blue #128 - купить за 490 руб.</description>
+				<count>50</count>
+				<param name="Цвет">Синий</param>
+			</offer>
+			<offer id="1618345131" available="true">
+			       <url>https://diskomir.ru/catalog/tsvetnye_kontaktnye_linzy_rossiyskiy_flag_544158/</url>
+			       <price>680</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3079451463</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/806/806c570b7c14b7565ee31be47dae4fc4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Цветные контактные линзы Российский Флаг</vendor>
+			       <name>Цветные контактные линзы Российский Флаг</name>
+				<description>Цветные контактные линзы Российский Флаг - купить за 680 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2886309475" available="true">
+			       <url>https://diskomir.ru/catalog/magnit_pryamougolnyy_spy_x_family_loid_anya_i_yor_forger_630230/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2019874220</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/c61/joq0eys913vngxyk5s6b77wcbsjl8m8k/magnit-pryamougolnyy-spy-x-family-loid-anya-i-yor-forger.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Магнит прямоугольный Spy x Family - Loid, Anya и Y</vendor>
+			       <name>Магнит прямоугольный Spy x Family - Loid, Anya и Yor Forger</name>
+				  <count>50</count> 
+				<description>Магнит прямоугольный Spy x Family - Loid, Anya и Yor Forger из аниме Семья шпиона - купить за 100 руб.</description>
+			</offer>
+			<offer id="193230128" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_sega_spy_x_family_anya_forger_bond_forger_premium_figure_639681/</url>
+			       <price>6500</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>334174867</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/21b/7e6x9t8jmw1uracae3zqnadekpo6szpi/figurka-spy-x-family-anya-forger-bond-forger-premium-figure.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Spy x Family Anya Forger &amp; Bond Forger Pre</vendor>
+			       <name>Фигурка Spy x Family Anya Forger &amp; Bond Forger Premium Figure</name>
+				<description>Фигурка Spy x Family Anya Forger &amp; Bond Forger Premium Figure из аниме Семья шпиона - купить за 6500 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4207550755" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_s_geroyami_anime_semya_shpiona_619627/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/100/7ncegwzjfifys27af6fc8w8i5n0ffjf6/plakat-bumazhnyy-s-geroyami-anime-semya-shpiona.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный с героями аниме Семья шпиона</vendor>
+			       <name>Плакат бумажный с героями аниме Семья шпиона</name>
+				<description>Плакат бумажный с героями аниме Семья шпиона из аниме Spy x Family - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2430126061" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_semya_shpiona_anya_fordzher_619631/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/upload/iblock/4d5/qjzdtfiyw8we52mxm1seechjxzx8kqh1/plakat-bumazhnyy-semya-shpiona-anya-fordzher.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Семья шпиона - Аня Форджер</vendor>
+			       <name>Плакат бумажный Семья шпиона - Аня Форджер</name>
+				<description>Плакат бумажный Семья шпиона - Аня Форджер из аниме Spy x Family - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1378341716" available="true">
+			       <url>https://diskomir.ru/catalog/plakat_bumazhnyy_semya_shpiona_fordzhery_619635/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>626741833</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3f4/2dgf0zaful2zluj3l0ifw4aps2zmskzh/plakat-bumazhnyy-semya-shpiona-fordzhery.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Плакат бумажный Семья шпиона - Форджеры</vendor>
+			       <name>Плакат бумажный Семья шпиона - Форджеры</name>
+				<description>Плакат бумажный Семья шпиона - Форджеры из аниме Spy x Family - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3747468732" available="true">
+			       <url>https://diskomir.ru/catalog/kospley_parik_semya_shpiona_loid_forger_621528/</url>
+			       <price>1760</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2252416416</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/a1d/s7xd94p2w863ryfesiz91x6uj3rn3s32/kospley-parik-semya-shpiona-loid-forger.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Косплей парик Семья шпиона - Loid Forger</vendor>
+			       <name>Косплей парик Семья шпиона - Loid Forger</name>
+				<description>Косплей парик Семья шпиона - Loid Forger из аниме Spy х Family - купить за 1760 руб.</description>
+				<count>50</count>
+				<param name="Размер" unit="RU">UNI</param>
+				<param name="Пол">унисекс</param>
+				<param name="Возраст">взрослый</param>
+				<param name="Цвет">разноцветный</param>
+			</offer>
+			<offer id="1493441084" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_1_618576/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/55d/mfx4uqmo60r3rh6t8tzws67jhupkvbh2/manga-spy-215-family-semya-shpiona-tom-1.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 1</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 1</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 1 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3222745245" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_3_618578/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/69e/207ktxr80ahr4x82itmuzwvfyug2hlvi/manga-spy-215-family-semya-shpiona-tom-3.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 3</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 3</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 3 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2246019843" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_2_618577/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/2f8/ht1dm05fqoul10a5pz7ri9zks03sj5lz/manga-spy-215-family-semya-shpiona-tom-2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 2</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 2</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 2 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3973806602" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_4_640080/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/4a2/so5c1kd05cl8wrmdnmjru1p6cc8cd2k3/manga-spy-x-family-semya-shpiona-tom-4.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 4</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 4</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 4 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4293158138" available="true">
+			       <url>https://diskomir.ru/catalog/manga_spy_x_family_semya_shpiona_tom_5_640081/</url>
+			       <price>600</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3201870484</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/f18/dav3y6xxho983v33zc9afp57v2dcdo4p/manga-spy-x-family-semya-shpiona-tom-5.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Манга SPY x FAMILY: Семья шпиона. Том 5</vendor>
+			       <name>Манга SPY x FAMILY: Семья шпиона. Том 5</name>
+				<description>Манга SPY x FAMILY: Семья шпиона. Том 5 - купить за 600 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3736959583" available="true">
+			       <url>https://diskomir.ru/catalog/figurka_semya_shpiona_anya_fordzher_2_622605/</url>
+			       <price>800</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>1632095291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/895/goouqt4mp0vxv2kukc8i8u3rmxv7e8lf/figurka-semya-shpiona-anya-fordzher-2.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Фигурка Семья шпиона - Аня Форджер 2</vendor>
+			       <name>Фигурка Семья шпиона - Аня Форджер 2</name>
+				<description>Фигурка Семья шпиона - Аня Форджер 2 из аниме Spy x Family - купить за 800 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3852200812" available="true">
+			       <url>https://diskomir.ru/catalog/kruzhka_s_geroyami_anime_spy_x_family_619452/</url>
+			       <price>350</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2958689724</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/11d/k1526wwvyskxodqywecavfb03u9qpj3m/kruzhka-s-geroyami-anime-spy-x-family.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Кружка с героями аниме Spy x Family</vendor>
+			       <name>Кружка с героями аниме Spy x Family</name>
+				<description>Кружка с героями аниме Spy x Family из аниме Spy x Family - купить за 350 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1375251476" available="true">
+			       <url>https://diskomir.ru/catalog/nabor_nakleek_semya_shpiona_50_shtuk_640869/</url>
+			       <price>220</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/b46/n78m53ykjlryb8ja63dg3r1tppklad85/nabor-nakleek-semya-shpiona-50-shtuk.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Набор наклеек Семья шпиона 50 штук</vendor>
+			       <name>Набор наклеек Семья шпиона 50 штук</name>
+				<description>Набор наклеек Семья шпиона 50 штук из аниме Spy x Family - купить за 220 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2015516052" available="true">
+			       <url>https://diskomir.ru/catalog/stikery_semya_shpiona_anya_621196/</url>
+			       <price>190</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>2304024291</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3a1/s5ra8vhduq23cco0ajap91n1iu3gfln5/stikery-semya-shpiona-anya.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Стикеры Семья шпиона / Аня</vendor>
+			       <name>Стикеры Семья шпиона / Аня</name>
+				<description>Стикеры Семья шпиона / Аня из Аниме Spy х Family / Семья шпиона - купить за 190 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="991184638" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_semya_shpiona_621190/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/ae3/fh1i1mg2gai9q43jalae359wvvsybkti/nakleyki-semya-shpiona.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Семья шпиона</vendor>
+			       <name>Наклейки Семья шпиона</name>
+				<description>Наклейки Семья шпиона из Аниме Spy х Family / Семья шпиона - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1350296535" available="true">
+			       <url>https://diskomir.ru/catalog/nakleyki_spy_kh_family_621193/</url>
+			       <price>100</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>3660505725</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/07c/eyn1jh7vih2h4fekr1qqlldpkfpxn2zq/nakleyki-spy-kh-family.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наклейки Spy х Family</vendor>
+			       <name>Наклейки Spy х Family</name>
+				<description>Наклейки Spy х Family из Аниме Spy х Family / Семья шпиона - купить за 100 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1366660544" available="true">
+			       <url>https://diskomir.ru/catalog/lutboks_semya_shpiona_621561/</url>
+			       <price>990</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>4022218322</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/3a1/pi92p5e5fpgwb2fckr7kuajns2rf2n02/lutboks-semya-shpiona.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Лутбокс Семья шпиона</vendor>
+			       <name>Лутбокс Семья шпиона</name>
+				<description>Лутбокс Семья шпиона из аниме Spy х Family - купить за 990 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="3684764904" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_obnimashku_kobayashi_san_chi_no_maid_dragon_519916_519916/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/8e8/8e83afefc3cc31da57214517124246cf.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку обнимашку Kobayash</vendor>
+			       <name>Наволочка дакимакура на подушку обнимашку Kobayashi-san Chi no Maid Dragon 519916</name>
+				<description>Наволочка дакимакура на подушку обнимашку Kobayashi-san Chi no Maid Dragon 519916 из аниме Дракон-горничная Кобаяши - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="367904332" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_obnimashku_danganronpa_nagito_komaeda_i_khadzhime_khinata_468975/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/eaf/eafbb6706e753cb2ddf222204737dc8e.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку обнимашку Данганро</vendor>
+			       <name>Наволочка дакимакура на подушку обнимашку Данганронпа - Нагито Комаэда и Хаджимэ Хината</name>
+				<description>Наволочка дакимакура на подушку обнимашку Данганронпа - Нагито Комаэда и Хаджимэ Хината из аниме Школа отчаяния - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4281914726" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_obnimashku_moy_sosed_totoro_chernushki_i_totoro_485613/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/afc/afc719018b24e684dd74398815d65f27.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку обнимашку Мой сосе</vendor>
+			       <name>Наволочка дакимакура на подушку обнимашку Мой сосед Тоторо - Чернушки и Тоторо</name>
+				<description>Наволочка дакимакура на подушку обнимашку Мой сосед Тоторо - Чернушки и Тоторо из аниме My Neighbor Totoro / Tonari no Totoro - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="1982383023" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_plamennaya_brigada_pozharnykh_tamaki_kotatsu_561763/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/498/navolochka-dakimakura-na-podushku-plamennaya-brigada-pozharnykh-tamaki-kotatsu.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку Пламенная бригада </vendor>
+			       <name>Наволочка дакимакура на подушку Пламенная бригада пожарных - Тамаки Котацу</name>
+				<description>Наволочка дакимакура на подушку Пламенная бригада пожарных - Тамаки Котацу из аниме Fire Force Tamaki Kotatsu - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2683133860" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_obnimashku_bts_bangtan_boys_chon_chonguk_523705/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/be3/be3e7d6946d77601a9f10d7c41d51961.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку обнимашку BTS Bang</vendor>
+			       <name>Наволочка дакимакура на подушку обнимашку BTS Bangtan Boys - Чон Чонгук</name>
+				<description>Наволочка дакимакура на подушку обнимашку BTS Bangtan Boys - Чон Чонгук по тематике BTS - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="2561626754" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_moya_geroyskaya_akademiya_ayzava_shota_i_katsuki_bakugo_582476/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/8ad/navolochka-dakimakura-moya-geroyskaya-akademiya-ayzava-shota-i-katsuki-bakugo.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура Моя геройская академия - Айза</vendor>
+			       <name>Наволочка дакимакура Моя геройская академия - Айзава Шота и Кацуки Бакуго</name>
+				<description>Наволочка дакимакура Моя геройская академия - Айзава Шота и Кацуки Бакуго из аниме My Hero Academia - Bakugou Katsuki и Shouta Aizawa - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+			<offer id="4114368432" available="true">
+			       <url>https://diskomir.ru/catalog/navolochka_dakimakura_na_podushku_obnimashku_bts_bangtan_boys_kim_namdzhun_523708/</url>
+			       <price>1490</price>
+			       <currencyId>RUB</currencyId>
+			       <categoryId>73790802</categoryId>
+				<picture>https://diskomir.ru/upload/resize_cache/webp/iblock/773/773338eea0d0821e108fd6e1d2f54870.webp</picture>
+				<delivery>true</delivery>
+				<vendor>Наволочка дакимакура на подушку обнимашку BTS Bang</vendor>
+			       <name>Наволочка дакимакура на подушку обнимашку BTS Bangtan Boys - Ким Намджун</name>
+				<description>Наволочка дакимакура на подушку обнимашку BTS Bangtan Boys - Ким Намджун по тематике BTS - купить за 1490 руб.</description>
+				<count>50</count>
+			</offer>
+		</offers>
+</shop>
+</yml_catalog>
